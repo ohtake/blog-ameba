@@ -16,7 +16,7 @@ Jenkins さんでキャラクター投票 (Jenkins さんはあまり関係な�
 毎日投票可能
 ------------
 
-2011年5月10日から[2012サンリオキャラクター大賞](http://sanriocharacterranking.com/)が始まりました。
+2012年5月10日から[2012サンリオキャラクター大賞](http://sanriocharacterranking.com/)が始まりました。
 
 Web からの投票の場合、毎日投票できるようになっており、各日とも複数キャラクターに1票ずつ投票できるようになっています。しかしながらブラウザで投票をするという単純作業を毎日繰り返すと人間は鬱になります。ましてや投票するキャラクターがたくさんいる場合は手間もかかりますし投票漏れも起こりやすくなります。
 
@@ -29,32 +29,32 @@ Job 設定
 
 というわけで bash スクリプトで wget を実行するだけの簡単なジョブを作ります。
 
-![Bash script](https://github.com/ohtake/blog-ameba/raw/master/20110514/bash.png)
+![Bash script](https://github.com/ohtake/blog-ameba/raw/master/20120514/bash.png)
 
 メールアドレス、年齢、性別、都道府県などは適宜設定してください。`application/x-www-form-urlencoded` で送るので、メールアドレスにプラス記号を含んでいる場合などはエスケープすることを忘れずに。
 
 投票するキャラクターは `CHAR_IDS` 変数で渡すようになっているので、ビルドパラメータを設定します。複数ある場合はスペース区切りでIDを書いてください。
 
-![String parameter](https://github.com/ohtake/blog-ameba/raw/master/20110514/param.png)
+![String parameter](https://github.com/ohtake/blog-ameba/raw/master/20120514/param.png)
 
 あとは毎日実行するようにスケジュールを設定します。投票期間は8月末までなので8月で終わるようにします。
 
-![Schedule](https://github.com/ohtake/blog-ameba/raw/master/20110514/cron.png)
+![Schedule](https://github.com/ohtake/blog-ameba/raw/master/20120514/cron.png)
 
 実行後の確認
 ------------
 
 投票済み等のエラーがあった場合にはクエリパラメータに error=1 が含まれるアドレスにリダイレクトされるようなので、エラーがあったことが分かるように [Groovy Postbuild Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Groovy+Postbuild+Plugin) を使ってみましょう。日によって投票先を変えるかもしれないので、どこに投票したかも表示するようにするとよいでしょう。
 
-![Groovy script](https://github.com/ohtake/blog-ameba/raw/master/20110514/groovy.png)
+![Groovy script](https://github.com/ohtake/blog-ameba/raw/master/20120514/groovy.png)
 
 Jenkins さんによる投票の後に人間がブラウザで投票すると投票済みエラーとなるし、その逆もまたしかりなので、おそらく投票できているのでしょう。黄色と青で一目瞭然。
 
-![Build history](https://github.com/ohtake/blog-ameba/raw/master/20110514/history.png)
+![Build history](https://github.com/ohtake/blog-ameba/raw/master/20120514/history.png)
 
 念のため wget が取得した HTML ファイルもアーカイブ化しておきます。後々のトラブルシューティングで必要になるかもしれませんから。
 
-![Archive the artifacts](https://github.com/ohtake/blog-ameba/raw/master/20110514/artifact.png)
+![Archive the artifacts](https://github.com/ohtake/blog-ameba/raw/master/20120514/artifact.png)
 
 ビルド設定ファイル
 ------------------
