@@ -1,1 +1,2 @@
-ブログの説明を入力します。
+サンリオ関係の記事を書きます。
+原稿は https://github.com/ohtake/blog-ameba にあります。
