@@ -14,8 +14,8 @@ blog-ameba
     * 変換プログラム・サービスの例は以下。リストで上の方ほど高機能。
         * [Jenkins](https://jenkins-ci.org/) に [PegDown Formatter Plugin](https://wiki.jenkins-ci.org/display/JENKINS/PegDown+Formatter+Plugin) を導入してプレビュー
         * GitHub, GitHub Wiki, Gist
-        * [Markdown: Dingus](http://daringfireball.net/projects/markdown/dingus)
         * [MarkdownPad](http://markdownpad.com/)
+        * [Markdown: Dingus](http://daringfireball.net/projects/markdown/dingus)
 1. 変換された HTML で Ameblo に投稿する
     * 画像は GitHub に上げられているのを使うので Ameblo に画像をアップロードしない。
     * script タグなどはたいてい規制されているので使えない。YouTube などの埋め込み用スクリプトはホワイトリストに入っているっぽい。
