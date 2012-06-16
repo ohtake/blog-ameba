@@ -7,8 +7,8 @@
   border-bottom: 1px solid #ccc;
 }
 
-.articleText p {
-  margin: 0 0 0.8em;
+.articleText p, .articleText blockquote {
+  margin: 0.8em 0;
   overflow: auto; /* 横幅が大きな画像対策 */
 }
 
@@ -22,4 +22,10 @@
   max-height: 20em;
   border-radius: 5px;
   padding: 5px;
+}
+
+.articleText blockquote {
+  color: #777;
+  padding: 0 15px;
+  border-left: 4px solid #ddd;
 }
