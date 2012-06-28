@@ -17,6 +17,9 @@
   border: 1px solid #ccc;
   border-radius: 3px;
 }
+.articleText pre code {
+  border: 0;
+}
 .articleText pre {
   overflow: auto;
   max-height: 20em;
