@@ -31,7 +31,7 @@
 作成したスクリプト
 ------------------
 
-自分の需要を満たすために作成した PowerShell スクリプトが <https://github.com/ohtake/spl-greeting> になります。Powershell の Execution Policy が RemoteSigned などに設定されていれば dot sourcing operator で、設定されていなければソース本文コピペでどうぞ。
+自分の需要を満たすために作成した PowerShell スクリプトが <https://github.com/ohtake/spl-greeting> になります。PowerShell の Execution Policy が RemoteSigned などに設定されていれば dot sourcing operator で、設定されていなければソース本文コピペでどうぞ。
 
 実行すると以下のような出力を得ることができるため、時間と場所の観点からキャラクターの組み合わせを見ることができるようになっています。このデータは2012年7月6日の午前9時半ごろに取得したものです。
 
