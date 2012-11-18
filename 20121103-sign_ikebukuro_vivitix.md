@@ -107,5 +107,5 @@
 * [公式レポート](http://ameblo.jp/cinnamon-staff/entry-11396940556.html)
     * 足じゃなかった。
     * みんな気合入ってる。
-* [当日の写真](https://picasaweb.google.com/103687453618299008868/20121103Ikebukuro_Vivitix?authuser=0&feat=directlink)
+* [当日の写真](https://picasaweb.google.com/103687453618299008868/20121103Ikebukuro_Vivitix?authuser=0&noredirect=1)
     * 本記事に載せているのとほとんどかぶるけど。
