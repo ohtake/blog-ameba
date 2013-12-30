@@ -20,7 +20,7 @@
 
 [![5D3J5129](http://farm3.staticflickr.com/2843/10902416776_6a79385494.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/10902416776/)
 
-[![5D3K1218](http://farm4.staticflickr.com/3801/11267961163_ca4ae16bd5.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11267961163/)
+[![5D3K6198](http://farm3.staticflickr.com/2841/11529767796_eb361e1600.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11529767796/)
 
 ### オズの魔法の国
 
