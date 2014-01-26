@@ -70,7 +70,7 @@ KITTY5 のは晩餐会でも使用。
 
 ### キティズハウス
 
-サンリオタウンリニューアル中のリトルガーデンでも同様。白地に赤リボンのは、7月27日のゆめみっちのスペシャルステージと、8月のくまモン夏期講習でも使用。12月のお祓いでも来ていたらしい。
+サンリオタウンリニューアル中のリトルガーデンでも同様。白地に赤リボンのは、7月27日のゆめみっちのスペシャルステージと、8月のくまモン夏期講習でも使用。12月のお祓いでも着ていたらしい。
 
 [![5D3C2291 (960x1440)](https://lh5.googleusercontent.com/-nvxrAfr6kDw/UOQdF55pghI/AAAAAAAAIDw/TRCziQ6yj3M/s500/5D3C2291%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/8QDf7ChAhXlcyIKBqRniZNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
