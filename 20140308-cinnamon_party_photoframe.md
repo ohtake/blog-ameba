@@ -6,6 +6,9 @@
 
 * 2014-03-08
     * 初版
+* 2014-03-09
+    * 『年末サンリオキャラクター歌自慢』が完全に抜けていたので追加
+    * 『せかい旅行』に写真を1枚追加
 * 2014-03-xx (未定)
     * デジタルフォトフレーム自体の写真を追加
 
@@ -30,7 +33,7 @@
 
 * TODO: デジタルフォトフレーム自体の写真を晩餐会の日に館のレストランで撮影し、ブログに貼る。
 
-2013年1月1日から2014年3月6日の範囲から写真を見繕っておいてSDカードに入れておいた。全部で120枚あり日数は61日である。リサイズするので写真を選ばずに全部入れることも可能ではあるが、パレードやショーの進行どおりの順番で表示されてほしいなとか、あまりにもゴミな画像を入れてもなあということで、期間内の9977枚から頑張って選んで並び替えをしておいた。
+2013年1月1日から2014年3月6日の範囲から写真を見繕っておいてSDカードに入れておいた。全部で125枚あり日数は61日である。リサイズするので写真を選ばずに全部入れることも可能ではあるが、パレードやショーの進行どおりの順番で表示されてほしいなとか、あまりにもゴミな画像を入れてもなあということで、期間内の9977枚から頑張って選んで並び替えをしておいた。
 
 デジタルフォトフレームの液晶は8インチで 800x600 ピクセルの横置き専用である。横置き専用なのでなるべく横構図のものを選定し、事前に 800x533 にリサイズしておいた。SDカードには原寸大の 5760x3840 の画像を zip で圧縮して保存しておいたので、高解像度のを見たい場合にはパソコンで zip ファイルを展開して見てください。
 
@@ -140,6 +143,8 @@ Believe 同様これも終わってしまったショーだけれども、ショ
 
 [![5D3G0201](http://farm8.staticflickr.com/7336/9286131678_7c764d401d.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9286131678/)
 
+[![5D3D6821 (1920x1280)](https://lh4.googleusercontent.com/-D-A32W34lJw/UVeyIm_mf8I/AAAAAAAAOP8/X63o4vqCV8I/s500/5D3D6821%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/bGLoiy8W8ceZ_f5_i0UQ_dMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+
 [![5D3E0846 (1920x1280)](https://lh4.googleusercontent.com/-lK8WB4TBcJE/UWoeSp6_wLI/AAAAAAAAP8w/ywTgTAvTJes/s500/5D3E0846%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/m2IJmE3zc-20qbhDnEzbedMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 [![5D3G0240](http://farm4.staticflickr.com/3796/9286130032_f0b2ddeda8.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9286130032/)
@@ -179,9 +184,9 @@ Believe 同様これも終わってしまったショーだけれども、ショ
 
 [![5D3D1713 (1440x960)](https://lh4.googleusercontent.com/-QLblsGS6gtQ/UTSedbD6U0I/AAAAAAAALSg/Z0Rrl_rN1VE/s500/5D3D1713%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/ysyoNADT6oj8I5rtn51G8NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-### キャラクター大賞グリーティング
+### キャラクター大賞
 
-1位になったらおしくらまんじゅうというマニフェストでキャラクター大賞に出馬してましたね。中間発表ではピューロランド内男性票で圧倒的な1位だったようだけれども、最終的な部門順位はどうなったんでしょう。
+1位になったらおしくらまんじゅうというマニフェストでキャラクター大賞に出馬してましたね。中間発表ではピューロランド内男性票で圧倒的な1位だったようだけれども、最終的な部門順位はどうなったんでしょう。結果としてはキャラクター大賞は総合5位。授賞式では堂々とした立居振舞だった。上位の壁は厚いけれども来年もがんばろう。応援する。
 
 [![5D3F6046](http://farm3.staticflickr.com/2889/9106750045_ea104bb963.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9106750045/)
 
@@ -192,10 +197,6 @@ Believe 同様これも終わってしまったショーだけれども、ショ
 [![5D3F5828](http://farm4.staticflickr.com/3786/9106755999_ecd014c9bc.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9106755999/)
 
 [![5D3F5836](http://farm4.staticflickr.com/3698/9106755095_3c659d51e4.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9106755095/)
-
-### キャラクター大賞授賞式と発表式
-
-結果としてはキャラクター大賞は総合5位。授賞式では堂々とした立居振舞だった。上位の壁は厚いけれども来年もがんばろう。応援する。
 
 [![5D3G1277](http://farm8.staticflickr.com/7356/9332096248_3d4918a953.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9332096248/)
 
@@ -228,6 +229,18 @@ Believe 同様これも終わってしまったショーだけれども、ショ
 [![5D3K0561](http://farm8.staticflickr.com/7345/11267936756_a07c23473b.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11267936756/)
 
 [![5D3K0565](http://farm3.staticflickr.com/2828/11267900155_9b7e929b3a.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11267900155/)
+
+### 年末サンリオキャラクター歌自慢
+
+すごく良い企画だったのでまたやってほしい。
+
+[![5D3K8170](http://farm6.staticflickr.com/5500/11665319015_e727085928.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11665319015/)
+
+[![5D3K8184](http://farm8.staticflickr.com/7459/11665318315_dc117c9764.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11665318315/)
+
+[![5D3K8194](http://farm4.staticflickr.com/3768/11665316225_d09bd8fbe7.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11665316225/)
+
+[![5D3K8424](http://farm6.staticflickr.com/5493/11665305335_c9a076840a.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11665305335/)
 
 ### もちもちシナモン餅つき大会
 
