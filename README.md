@@ -8,6 +8,7 @@
 
 1. 本文を Markdown およびその派生で書く。
     * 画像がある場合には GitHub の絶対 URI になるようにする。心配ならば先に画像だけをコミットしてプッシュする。
+        * 昔は Markdown からの相対パスに対応していなかったからそのように決めたが、今は Flickr か Picasa から画像を読み込むことがほとんどなのでもう不要かも。
 1. 書いた Markdown を変換できるプログラムを使って変換する。
     * table とか code とかの独自文法に注意。
     * 変換プログラム・サービスの例は以下。リストで上の方ほど高機能。
@@ -17,7 +18,7 @@
         * [MarkdownPad](http://markdownpad.com/)
         * [Markdown: Dingus](http://daringfireball.net/projects/markdown/dingus)
 1. 変換された HTML で Ameblo に投稿する
-    * 画像は GitHub に上げられているのを使うので Ameblo に画像をアップロードしない。
+    * 画像は GitHub や Flickr や Picasa に上げられているのを使うので Ameblo に画像をアップロードしない。
     * script タグなどはたいてい規制されているので使えない。YouTube などの埋め込み用スクリプトはホワイトリストに入っているっぽい。
 
 確定分の記法規約
