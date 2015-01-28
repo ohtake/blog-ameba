@@ -23,8 +23,22 @@ blog-ameba
 確定分の記法規約
 ----------------
 
-* 段落中に改行は入れない。変換プログラムによっては改行を改行として扱ってしまうため。
-* 絶対URIに対してリンクを張るときでも明示的にリンクの記法を使う。変換プログラムによっては明示的なリンクしかリンクにしてくれないため。
+[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) (GFM) のサブセットとする。
+
+* [オリジナルの Markdown](http://daringfireball.net/projects/markdown/) にあるが使わないもの
+    * Inline HTML
+    * Emphasis: GFM で無効化されていたりするので使わない。変換プログラムによっては URL 中のアンダーバーを勝手にイタリックにしたりするので気を付けよう。
+    * Code blocks: 替わりに GFM の Fenced code blocks で。
+    * Horizontal rules
+    * Automatic links: 絶対URIに対してリンクを張るときでも明示的にリンクの記法を使う。変換プログラムによっては明示的なリンクしかリンクにしてくれないため。
+* GFM にあるが使わないもの
+    * Newlines: 段落中に改行は入れない。変換プログラムによっては改行を改行として扱ってしまうため。改行を入れたければスペース2つで。
+    * Task lists
+    * Strikethrough
+    * Emoji
+    * References (SHA, issue, username, ...)
+
+TODO CommonMark
 
 カスタマイズ
 ------------
