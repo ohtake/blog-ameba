@@ -11,6 +11,7 @@ blog-ameba
 1. 書いた Markdown を変換できるプログラムを使って変換する。
     * table とか code とかの独自文法に注意。
     * 変換プログラム・サービスの例は以下。リストで上の方ほど高機能。
+        * [Haroopad](http://pad.haroopress.com/)
         * [Jenkins](https://jenkins-ci.org/) に [PegDown Formatter Plugin](https://wiki.jenkins-ci.org/display/JENKINS/PegDown+Formatter+Plugin) を導入してプレビュー
         * GitHub, GitHub Wiki, Gist
         * [MarkdownPad](http://markdownpad.com/)
