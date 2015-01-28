@@ -1,2 +1,2 @@
-サンリオ関係の記事を書きます。
+﻿サンリオ関係の記事を書きます。
 原稿は https://github.com/ohtake/blog-ameba にあります。

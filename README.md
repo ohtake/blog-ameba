@@ -1,4 +1,4 @@
-blog-ameba
+﻿blog-ameba
 ==========
 
 [http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場です。
@@ -39,6 +39,12 @@ blog-ameba
     * References (SHA, issue, username, ...)
 
 TODO CommonMark
+
+テキストファイルの形式
+----------------------
+
+* UTF-8 の BOM あり
+* 改行は LF
 
 カスタマイズ
 ------------
