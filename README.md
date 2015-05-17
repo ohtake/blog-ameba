@@ -1,10 +1,8 @@
-﻿blog-ameba
-==========
+﻿# blog-ameba
 
 [http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場です。
 
-更新手順
---------
+## 更新手順
 
 1. 本文を Markdown およびその派生で書く。
     * 画像がある場合には GitHub の絶対 URI になるようにする。心配ならば先に画像だけをコミットしてプッシュする。
@@ -21,8 +19,7 @@
     * 画像は GitHub や Flickr や Picasa に上げられているのを使うので Ameblo に画像をアップロードしない。
     * script タグなどはたいてい規制されているので使えない。YouTube などの埋め込み用スクリプトはホワイトリストに入っているっぽい。
 
-確定分の記法規約
-----------------
+## 確定分の記法規約
 
 [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) (GFM) のサブセットとする。
 
@@ -41,14 +38,13 @@
 
 TODO CommonMark
 
-テキストファイルの形式
-----------------------
+## テキストファイルの形式
 
-* UTF-8 の BOM あり
+* UTF-8
+* BOM は未定義
 * 改行は LF
 
-カスタマイズ
-------------
+## カスタマイズ
 
 custom ディレクトリを参照。
 
