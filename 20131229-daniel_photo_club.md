@@ -25,7 +25,7 @@
 
 白トナカイはニコンの D40 や D600 を使っていた模様。
 
-[![IMG_0257.jpg by wahho0](http://farm6.staticflickr.com/5539/11152848313_0403b76556.jpg)](http://www.flickr.com/photos/wahho/11152848313/)
+> [![IMG_0257.jpg by wahho0](http://farm6.staticflickr.com/5539/11152848313_0403b76556.jpg)](http://www.flickr.com/photos/wahho/11152848313/)
 
 [![5D3K2381](http://farm8.staticflickr.com/7336/11353943803_1ba0c8b06a.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11353943803/)
 

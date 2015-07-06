@@ -53,7 +53,7 @@
 
 自分はまだ小鳥さんに会えておらず、小鳥さんがどのように乗っているかを説明する写真がないため、[Wahho Sugar](https://www.flickr.com/people/wahho/)さんが撮影したサーズディの写真を拝借。
 
-[![IMG_3323.jpg by Wahho Sugar](https://farm6.staticflickr.com/5564/14795808814_f8e831e092.jpg)](https://www.flickr.com/photos/wahho/14795808814)
+> [![IMG_3323.jpg by Wahho Sugar](https://farm6.staticflickr.com/5564/14795808814_f8e831e092.jpg)](https://www.flickr.com/photos/wahho/14795808814)
 
 ### 耳折れ
 
