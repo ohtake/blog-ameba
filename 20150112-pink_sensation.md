@@ -260,3 +260,7 @@ DE DE MOUSE のスタッフによる動画は <https://www.youtube.com/watch?v=h
 ## Flickr アルバム
 
 本イベントの Flickr アルバムは [20141031-Puroland_Pink_Sensation](https://www.flickr.com/photos/ohtake_tomohiro/sets/72157646800178373/) にある。
+
+## 公式ダイジェスト映像
+
+2015年10月31日に PINK sensation 2015 ~Hello Kitty 41st ANNIVERSARY BASH! MY MELODY & Little Twin Stars 40th ANNIVERSARY!~ が開催されることが2015年8月4日にアナウンスされ、2014年のダイジェスト映像が <https://www.youtube.com/watch?v=-f_vjRdM1y0> に上げられた。
