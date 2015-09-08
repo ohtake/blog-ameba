@@ -283,7 +283,7 @@
 
 ### 7月: ハローキティのウォーターパーク
 
-『ドリームレビュー2』
+日焼けキティ。
 
 [![5D3O3259](https://farm6.staticflickr.com/5552/14560072296_6c89d1f1d0.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/14560072296)
 
