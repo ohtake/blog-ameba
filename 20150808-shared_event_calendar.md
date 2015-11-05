@@ -2,9 +2,18 @@
 
 キティを含めサンリオキャラクターはピューロランドやハーモニーランドなどのテーマパークで大忙しである。しかもそれだけではなく外部ベントも含めた過密スケジュールをこなしている。テーマパークで行われているイベントの情報はまとまっているからよいが、外部イベントの情報は整頓されておらず見逃してしまうことがある。そこで共有カレンダーを使い、外部イベントによく参加する人同士で情報共有をすることにしてみた。
 
+## 更新履歴
+
+* 2015-08-08
+    * 初版
+* 2015-11-05
+    * Google Calendar が RSS を提供しなくなることについて追記
+
 ## 共有カレンダー
 
 Google Calendar にサンリオ外部イベントの共有カレンダーを作成した。[HTML](https://www.google.com/calendar/embed?src=qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com&ctz=Asia/Tokyo) や [RSS](https://www.google.com/calendar/feeds/qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com/public/basic) や [iCal](https://www.google.com/calendar/ical/qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com/public/basic.ics) で利用できる。
+
+(2015-11-05 追記) [2015年11月18日から Google Calendar で RSS が提供されなくなる](https://support.google.com/calendar/answer/6285065)。そのため RSS でこの非公式カレンダーを読みたい場合には、[RSS に変換してくれるサービス](http://scraper.mono0x.net/sanrio-events-calendar)を使うとよい。 (追記終わり)
 
 Google Calendar を使っている人は [HTML](https://www.google.com/calendar/embed?src=qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com&ctz=Asia/Tokyo) を開き、右下にある追加ボタンを押せば自身のカレンダーに追加できる。
 
