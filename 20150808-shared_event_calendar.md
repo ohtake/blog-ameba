@@ -8,6 +8,8 @@
     * 初版
 * 2015-11-05
     * Google Calendar が RSS を提供しなくなることについて追記
+* 2016-04-29
+    * カレンダーの内容を Twitter に投稿するボットについて追記
 
 ## 共有カレンダー
 
@@ -18,6 +20,8 @@ Google Calendar にサンリオ外部イベントの共有カレンダーを作�
 Google Calendar を使っている人は [HTML](https://www.google.com/calendar/embed?src=qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com&ctz=Asia/Tokyo) を開き、右下にある追加ボタンを押せば自身のカレンダーに追加できる。
 
 他のカレンダーシステムを使っている人は、[iCal](https://www.google.com/calendar/ical/qsqrk2emvnnvu45debac9dugr8%40group.calendar.google.com/public/basic.ics) をそのシステムに読み込ませるとよいだろう。世の中には数多のカレンダーシステムがあるので、どうやるのかは各自調べてください。
+
+(2016-04-29 追記) カレンダーの使い方が分からないが何となく情報は取得したい人は、カレンダーの内容を Twitter につぶやいてくれる [@sanrio_events](https://twitter.com/sanrio_events) をフォローしてもよいだろう。RSS で読んだりカレンダーとして読んだりしたほうがずっと効率はいいが、今の世の中的には効率よりもお手軽さのほうが重要なこともある。 (追記終わり)
 
 ## 自分の今までの使い方とこれからの使い方
 
