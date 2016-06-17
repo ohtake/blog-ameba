@@ -1,34 +1,8 @@
 /*
-「CSS編集用デザイン」を選び以下のルールを追加する。
-@import は禁止されているので直書きする。
+「リスト」レイアウトの「CSS編集用デザイン」を選び以下のルールを追加する。
+import ディレクティブは禁止されているので直書きする。
 */
 
-.articleText h2 {
-  border-bottom: 1px solid #ccc;
-}
-
-.articleText p, .articleText blockquote {
+article p {
   margin: 0.8em 0;
-  overflow: auto; /* 横幅が大きな画像対策 */
-}
-
-.articleText pre, .articleText code {
-  background-color: #f8f8f8;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-}
-.articleText pre code {
-  border: 0;
-}
-.articleText pre {
-  overflow: auto;
-  max-height: 20em;
-  border-radius: 5px;
-  padding: 5px;
-}
-
-.articleText blockquote {
-  color: #777;
-  padding: 0 15px;
-  border-left: 4px solid #ddd;
 }
