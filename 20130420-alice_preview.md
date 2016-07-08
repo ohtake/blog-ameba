@@ -1,5 +1,4 @@
-﻿『不思議の国のハローキティ』ブロガー招待
-========================================
+﻿# 『不思議の国のハローキティ』ブロガー招待
 
 2013年4月20日から上演開始となる『[不思議の国のハローキティ](http://www.puroland.co.jp/show/kitty_in_wonderland/)』が、4月19日にブロガー向けに先行公開されていたので見に行ってきました。
 
@@ -24,8 +23,7 @@
 
 この日は2回上演があったので、1回目は中央後方から、2回目は左側2列目から見させてもらいました。アリス含め当日の写真は [Picasa Web Album の 20130419-Puroland](https://picasaweb.google.com/103687453618299008868/20130419Puroland?authuser=0&noredirect=1) にアップロードしてあるので興味があればご覧ください。以下ではその中の写真から場面順に適当に抜き出していきます。
 
-ピクニック
-----------
+## ピクニック
 
 とりあえず、ジョージ、メアリー、ミミィ、カイルの衣装から。
 
@@ -37,8 +35,7 @@
 
 以前からグリーティングで出てきているアリスの新衣装はタイムエプロンという名称らしい。キティが時計の読み方を覚えられるようにと、メアリーが縫ってくれたらしい。キティって時計も読めなかったんかいな。一方でミミィの衣装は花の名前を覚えるようにと花の衣装。ここでしか出てこないので、花の衣装のミミィを見たい場合は左側の席へ。
 
-ローズガーデン
---------------
+## ローズガーデン
 
 カイルに連れられてローズガーデンへ。
 
@@ -52,8 +49,7 @@
 
 [![](https://lh6.googleusercontent.com/-fy1WALoyufQ/UXIM1xCYapI/AAAAAAAAQKo/Lx7hPPNiQJk/s480/5D3E1640%2520%25281280x1920%2529.jpg)](https://picasaweb.google.com/lh/photo/Hgtw_yl6D_7tr52BMQAj69MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-ハートを失くしたハートの女王様
-------------------------------
+## ハートを失くしたハートの女王様
 
 王様と女王様とジャックが登場。アンチエイジングとかその歌詞とかハワイとか、このあたりから演出がギャグ路線であることを確信した。
 
@@ -81,8 +77,7 @@
 
 先のローズガーデンでの右端とこの左端により両方の端でアドリブパートがあるとはなんと親切な。
 
-ロイヤルクラウン
-----------------
+## ロイヤルクラウン
 
 ミラクルティアラを受け取りに、一見様お断りのロイヤルクラウンの店へお使いに行くキティとカイル。
 
@@ -102,8 +97,7 @@
 
 黒バラの正体を突き止めるために、キティとカイルが黒バラへのお届け物をすることに。一見様お断りの店なのに、キティに預けるとはなんて適当な店なんだ。ギャグ路線だし何でもありだわ。
 
-黒バラへの届け物
-----------------
+## 黒バラへの届け物
 
 オカマっぽい黒バラ。私がダンサーをピンで撮るなんて滅多にないで。
 
@@ -119,8 +113,7 @@
 
 [![](https://lh4.googleusercontent.com/--QlvN2UaOpE/UXINPdfUkLI/AAAAAAAAQTk/WzxCrUnU1qE/s480/5D3E2198%2520%25281280x1920%2529.jpg)](https://picasaweb.google.com/lh/photo/EZZyTtYWf9BKDvtyfH-D0NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-ジャック救出とハート奪還
-------------------------
+## ジャック救出とハート奪還
 
 処刑されようとしているジャック。トランプ兵がよくできてる。
 
@@ -136,8 +129,7 @@
 
 [![](https://lh3.googleusercontent.com/-FUFCTS4fvPc/UXINPhm2guI/AAAAAAAAQTw/JxZ9l3_DMkI/s480/5D3E2221%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/ckM_zGEzQm7WwLBGGUND-tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-ハートを取り戻した女王様
-------------------------
+## ハートを取り戻した女王様
 
 新しいミラクルティアラで若さを取り戻したもののハートがないため、思いやりのない発言を繰り返す女王様。ハートを付けて元通り。
 
@@ -155,8 +147,7 @@
 
 [![](https://lh6.googleusercontent.com/-tjYWJq4FbnM/UXIM-I7zQ9I/AAAAAAAAQNY/LIB9fg6HULI/s480/5D3E1779%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/t8ad8QOS7rsFFIUoMVhB89MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-後半
-----
+## 後半
 
 後半は前々作や前作と同じ構成。宝塚のことはよく知らんが、きっとこれが宝塚スタイルなんでしょう。
 
@@ -180,10 +171,8 @@
 
 [![](https://lh6.googleusercontent.com/-cviE5vUe-E0/UXINDjpJDnI/AAAAAAAAQPU/Y0tuWlZcYO8/s480/5D3E1939%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/YDkXFfK1Qkrv1vjlJEkrvtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-まとめ
-------
+## まとめ
 
 キティのプレ40周年を記念して制作された今回の『不思議の国のハローキティ』。何事にも替えられない大切なものがなんであるのか、を考えさせてくれる素敵なショーだった。
 
 マリウス葉や安蘭けいが声の担当もされているようなので、今までピューロランドに行ったことがない人も是非。
-

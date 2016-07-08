@@ -1,8 +1,6 @@
-﻿Jenkins さんでキャラクター投票 (Jenkins さんはあまり関係ない)
-=============================================================
+﻿# Jenkins さんでキャラクター投票 (Jenkins さんはあまり関係ない)
 
-更新履歴
--------
+## 更新履歴
 
 * 2012-05-14
     * 初版
@@ -11,20 +9,17 @@
 * 2012-09-17
     * ルゥ、自重
 
-注意
-----
+## 注意
 
 キャラクターといっても [Jenkins Ninja](https://twitter.com/#!/masanobuimai/status/200244234886983680) とかではなく、単に Jenkins を cron の代用で使っているだけの内容なので、 Jenkins 関連の話題をお探しの方にとっては役に立たないと思われます。
 
-3行まとめ
----------
+## 3行まとめ
 
 * 人間に単純作業を繰り返させると鬱になります
 * Jenkins さんはビルド以外にも使えます
 * シナモロールに投票しましょう (ステマ)
 
-毎日投票可能
-------------
+## 毎日投票可能
 
 2012年5月10日から[2012サンリオキャラクター大賞](http://sanriocharacterranking.com/)が始まりました。
 
@@ -32,8 +27,7 @@ Web からの投票の場合、毎日投票できるようになっており、�
 
 なので人間様が手を下すのではなく執事の [Jenkins](http://jenkins-ci.org/) さんにやってもらいましょう。
 
-Job 設定
---------
+## Job 設定
 
 セッションIDは送らなくても投票できるっぽいので、面倒なセッションIDを送らずにフォームだけを送ればよいです。仮にセッションIDがあってもメールアドレスとかを毎回送る謎仕様のようですし。
 
@@ -51,8 +45,7 @@ Job 設定
 
 ![Schedule](https://github.com/ohtake/blog-ameba/raw/master/20120514/cron.png)
 
-実行後の確認
-------------
+## 実行後の確認
 
 投票済み等のエラーがあった場合にはクエリパラメータに error=1 が含まれるアドレスにリダイレクトされるようなので、エラーがあったことが分かるように [Groovy Postbuild Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Groovy+Postbuild+Plugin) を使ってみましょう。日によって投票先を変えるかもしれないので、どこに投票したかも表示するようにするとよいでしょう。
 
@@ -66,8 +59,7 @@ Jenkins さんによる投票の後に人間がブラウザで投票すると投
 
 ![Archive the artifacts](https://github.com/ohtake/blog-ameba/raw/master/20120514/artifact.png)
 
-ビルド設定ファイル
-------------------
+## ビルド設定ファイル
 
 最終的な config.xml はこのようになりました。
 
@@ -130,8 +122,7 @@ manager.addShortText(manager.build.getBuildVariables().get(&quot;CHAR_IDS&quot;)
 </project>
 ```
 
-Twitter 連携 (未実施)
----------------------
+## Twitter 連携 (未実施)
 
 [#scr2012 で Twitter 検索](https://twitter.com/#!/search/%23scr2012)してみてください。誰がどのキャラクターに投票したのかがおそらく出てくるかと思います。人間によるブラウザでの投票であれば、投票後に [tweet button](https://twitter.com/about/resources/buttons#tweet) でだれに投票したかを呟けるように誘導されるため、このようなツイートが現れています。
 
@@ -139,8 +130,7 @@ Twitter 連携 (未実施)
 
 自分の場合はタイムラインがうるさくなりそうなので実施していません。やりたい方はご自由にどうぞ。
 
-複数メール (未実施)
--------------------
+## 複数メール (未実施)
 
 デザイナで1番偉いお姉さんが複数のデバイスを使うことで「[毎日5票投票](http://yamaguchiyuuko.cocolog-nifty.com/blog/2012/05/post-25d8.html)」を推奨していますし、2番目に偉いお姉さんも同様に「[持てるデバイスを駆使してシナモンファンの本気を見せてくれ](https://twitter.com/#!/myumyu47/status/200471814676295680)」とのことだそうです。
 
@@ -167,8 +157,6 @@ Twitter 連携 (未実施)
 
 ルゥ、自重。
 
-まとめ
-------
+## まとめ
 
 というわけで[シナモロールに投票](https://sanriocharacterranking.com/vote.php?character_id=77)しましょう。
-

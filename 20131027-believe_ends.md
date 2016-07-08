@@ -1,5 +1,4 @@
-﻿Believe 終わっちゃった
-======================
+﻿# Believe 終わっちゃった
 
 2007年6月15日から始まり2013年10月31日で終わる予定の『サンリオハートフルパレード "Believe"』。辻社長がよく言うには、Believe は10か所から100回見ないといけないらしい。その辻社長も[2012年6月の第52回定時株主総会](http://ameblo.jp/ohtaket/entry-11285281721.html)で
 
@@ -17,36 +16,31 @@
 
 最後に、素敵なショーをありがとう。タスクタグ (UNDONE) を消化できずごめんなさい。特にタスクリストを作ったら名前が出まくっていたクロミちゃんには本当にごめんなさい。
 
-Believe Information
--------------------
+## Believe Information
 
 [![5D3G5625](http://farm4.staticflickr.com/3753/9457200825_a1000b8b9e.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9457200825/)
 
 [![5D3C9576 (1440x960)](https://lh5.googleusercontent.com/-hSIkoHcvYDc/USlfizDMv7I/AAAAAAAAKoQ/kr71G01uqpw/s500/5D3C9576%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/7MwzK5INPQRxz_PyBq5J0tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-『メルヘンの世界へ』
---------------------
+## 『メルヘンの世界へ』
 
 > さぁ、行こう メルヘンの世界へ
 
 WONTFIX
 
-『いつもの一日』
-----------------
+## 『いつもの一日』
 
 > 今日も一日が終わった さあ、今日はなにをしよう
 
 WONTFIX
 
-『思い出してごらん』
---------------------
+## 『思い出してごらん』
 
 > 想い出をたどろう やさしく目を閉じて
 
 WONTFIX
 
-『Welcome to this World of Dream』
-----------------------------------
+## 『Welcome to this World of Dream』
 
 > Puro, Puro, Welcome to the world of the fantastic Puro
 
@@ -112,8 +106,7 @@ UNDONE しろうさ
 
 [![5D3D5867 (1280x1920)](https://lh3.googleusercontent.com/-xqtGu_tSNJo/UU6Eqs02fYI/AAAAAAAAN-A/5u9usNSBSQA/s500/5D3D5867%2520%25281280x1920%2529.jpg)](https://picasaweb.google.com/lh/photo/UOGOtEr9wkGQx3hLWrJ_tdMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-『おとぎ話の始まり』
---------------------
+## 『おとぎ話の始まり』
 
 > やさしさに包まれて 私たちは生まれてきた
 
@@ -129,8 +122,7 @@ UNDONE しろうさ
 
 [![5D3F8641](http://farm8.staticflickr.com/7376/9274555749_1d468a6353.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9274555749/)
 
-『ココロをつなぐリズム』
-------------------------
+## 『ココロをつなぐリズム』
 
 ### 振付指導
 
@@ -178,8 +170,7 @@ UNDONE クロミ
 
 [![5D3C4706 (960x1440)](https://lh4.googleusercontent.com/-ogzP9oGApYE/UPWBip0cSfI/AAAAAAAAIyc/qdiuUyEMJKQ/s500/5D3C4706%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/zXt5MRvT4-w3ZsQqzxvxY9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-『まわれ僕らの夢』
-------------------
+## 『まわれ僕らの夢』
 
 > 大空たかく舞いあがれ君も スワンの翼広げて
 
@@ -239,8 +230,7 @@ UNDONE クロミ
 
 [![5D3D6409 (1920x1280)](https://lh5.googleusercontent.com/-fuI7HoW2OAs/UVexlKSVXYI/AAAAAAAAOIo/FjDLqbm4NcY/s500/5D3D6409%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/AvBFxUw1igNAm3eRGbXR29MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-『いつも君のそばに』
---------------------
+## 『いつも君のそばに』
 
 > うれしい事があった時には 教えて
 
@@ -270,8 +260,7 @@ UNDONE クロミ
 
 [![5D3I4671](http://farm3.staticflickr.com/2819/10249468746_d494201786.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/10249468746/)
 
-夜明けの鐘
-----------
+## 夜明けの鐘
 
 > 夜が明けるわ
 
@@ -301,8 +290,7 @@ UNDONE たくさん
 
 [![5D3G6448](http://farm8.staticflickr.com/7295/9471251933_984a62e037.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9471251933/)
 
-『Believe』
------------
+## 『Believe』
 
 > ありがとう、素敵な夢を
 
@@ -350,8 +338,7 @@ UNDONE たくさん
 
 [![5D3I6685](http://farm4.staticflickr.com/3710/10362624845_5c3e83c4ae.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/10362624845/)
 
-『メルヘンの世界へ ~ Believe (リプライズ)』
--------------------------------------------
+## 『メルヘンの世界へ ~ Believe (リプライズ)』
 
 > さぁ、行こう メルヘンの世界へ
 
@@ -395,8 +382,7 @@ UNDONE たくさん
 
 [![5D3C2449 (1440x960)](https://lh6.googleusercontent.com/-X4C9OiYoIsU/UOQdWvxjenI/AAAAAAAAIF0/S4vfaG_fUxw/s500/5D3C2449%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/yHfxu5pQIbc8zrA61BD8ftMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-退場
-----
+## 退場
 
 ### 歩行組
 
@@ -439,4 +425,3 @@ UNDONE たくさん
 [![5D3H8516](http://farm6.staticflickr.com/5486/9899565855_eaf5a5b5b0.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/9899565855/)
 
 [![5D3D8802 (1920x1280)](https://lh3.googleusercontent.com/-8M7dFzoyHGE/UWF0Y4A-IiI/AAAAAAAAO1Q/MlLtwVDMA_k/s500/5D3D8802%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/dQeAq4K92YzyKYJ8AO20CdMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
-
