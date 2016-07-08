@@ -1,5 +1,7 @@
 ﻿# blog-ameba
 
+[![Code Climate](https://codeclimate.com/github/ohtake/blog-ameba/badges/gpa.svg)](https://codeclimate.com/github/ohtake/blog-ameba)
+
 [http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場です。
 
 ## 更新手順
