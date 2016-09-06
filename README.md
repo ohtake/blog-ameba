@@ -1,6 +1,7 @@
 # blog-ameba
 
 [![Code Climate](https://codeclimate.com/github/ohtake/blog-ameba/badges/gpa.svg)](https://codeclimate.com/github/ohtake/blog-ameba)
+[![Dependency Status](https://www.versioneye.com/user/projects/57cebba39b4cc20044fffd40/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57cebba39b4cc20044fffd40)
 
 [http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場です。
 
