@@ -1,14 +1,14 @@
-﻿# シナモン晩餐会2014の誕生日プレゼント
+# シナモン晩餐会2014の誕生日プレゼント
 
 ## 更新履歴
 
 * 2014-03-08
-    * 初版
+  * 初版
 * 2014-03-09
-    * 『年末サンリオキャラクター歌自慢』が完全に抜けていたので追加
-    * 『せかい旅行』に写真を1枚追加
+  * 『年末サンリオキャラクター歌自慢』が完全に抜けていたので追加
+  * 『せかい旅行』に写真を1枚追加
 * 2014-03-11
-    * デジタルフォトフレーム自体の写真を追加
+  * デジタルフォトフレーム自体の写真を追加
 
 ## 注意書き
 
@@ -284,7 +284,7 @@ Believe 同様これも終わってしまったショーだけれども、ショ
 
 [![5D3L0852](http://farm3.staticflickr.com/2820/11888848126_7741382635.jpg)](http://www.flickr.com/photos/ohtake_tomohiro/11888848126/)
 
-####  イースター
+#### イースター
 
 [![5D3D4892 (1920x1280)](https://lh5.googleusercontent.com/-MAFdh-p3du8/UUUpzGlzCxI/AAAAAAAAiKI/ZbYl71BMa-E/s500/5D3D4892%2520%25281920x1280%2529.jpg)](https://picasaweb.google.com/lh/photo/B97qysTqlGl1jAAV_W2bRdMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 

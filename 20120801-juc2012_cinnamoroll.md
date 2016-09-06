@@ -1,4 +1,4 @@
-﻿# Jenkinsユーザ・カンファレンス2012東京で見かけたシナモン君
+# Jenkinsユーザ・カンファレンス2012東京で見かけたシナモン君
 
 [ルビー](http://www.puroland.jp/character/ruby)ちゃんの誕生日の7月29日には[東急Ruby会議05(東京Ruby会議09)](http://regional.rubykaigi.org/tokyu05)があり、その裏では[Jenkinsユーザ・カンファレンス2012東京](http://build-shokunin.org/juc2012/)が開催されていました。そのJenkinsユーザ・カンファレンス2012東京で見かけた[シナモン](http://www.puroland.jp/character/cinnamon)君を紹介。
 

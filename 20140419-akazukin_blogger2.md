@@ -1,4 +1,4 @@
-﻿# My Melody in Akazukin ブロガー招待2
+# My Melody in Akazukin ブロガー招待2
 
 2014年3月21日からピューロランドの新アトラクション [My Melody in Akazukin](http://www.puroland.jp/akamelo/) がオープンした。オープン前日の3月20日の木曜にブロガー招待があったのだが平日で行けなかったため、[2回目のブロガー招待](http://chiwamama.com/2014/04/puroland-12.html)となる4月13日の日曜に参加させてもらった。
 
@@ -23,11 +23,11 @@
 個人的な感覚で難易度の低い順でゲームを並べると以下のようになる。リンゴと音ゲーは逆の難易度だと思う人のほうが多いかも。かっこ内の名称が日本語と英語の正式なゲーム名であるが、あまりにも長いのでこの本文中ではかっこ外の通称名で記載する。
 
 1. 靴 (マイメロディのぴったり靴さがし, My Melody Finding a Shoe that Fits)
-2. 落ちゲー (マイメロディのお家づくり, Building a House for My Melody)
-3. 鍵 (マイメロディのお菓子の家, My Melody's Key Quest)
-4. 蛙 (マイメロディの水中案内, My Melody's Underwater Adventure)
-5. リンゴ (マイメロディのりんご集め, My Melody Catching Apples)
-6. 音ゲー (マイメロディのめざましメロディ, A Melody to Wake My Melody)
+1. 落ちゲー (マイメロディのお家づくり, Building a House for My Melody)
+1. 鍵 (マイメロディのお菓子の家, My Melody's Key Quest)
+1. 蛙 (マイメロディの水中案内, My Melody's Underwater Adventure)
+1. リンゴ (マイメロディのりんご集め, My Melody Catching Apples)
+1. 音ゲー (マイメロディのめざましメロディ, A Melody to Wake My Melody)
 
 靴、落ちげー、鍵、蛙は満点の10点をとること難しくない。30点を狙うのならばこれらの中から3つを選べばよし。難しいのはリンゴと音ゲー。リンゴはスコアが安定しないし、音ゲーは10点を取った人を見たことすらない。
 
@@ -114,4 +114,3 @@ Kinect により手で籠を作り、画面上を振ってくる赤いリンゴ�
 ### クイズ景品
 
 [動画を見てクイズに答える](https://www.puroland.co.jp/fanclub/akazukin/)とアトラクションでノベルティをもらえる。クイズは全部で5問あり、そのうち4問は動画を見て答える。最後の1問はアトラクション入口のQRコードを読むと表示され、その問題のみ動画ではなくアトラクション内を巡って答えを出すことになる。最終問題に答えた後の画面とパスポートの半券を持っていくと、ノベルティとしてA5ノートまたはチャームがもらえる。パスポートの半券が必要なので年間パスポートや期間限定平日パスポートは不可。ノベルティは非売品で数量限定なのでお早目に。
-
