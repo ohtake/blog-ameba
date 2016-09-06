@@ -356,6 +356,6 @@ Kapuzinerberg から見下ろしてみたところ。空が夕暮れになりか
 
 ### ブレントクロス
 
-ロンドンのブレントクロス (Brent Cross) については[イギリス2015年夏イベント Hello Kitty Kindness Garden ](http://ameblo.jp/ohtaket/entry-12069148052.html)に記載済みだが、キティのぬいぐるみをキティに持ってもらった写真を載せていなかったので、ここで載せておく。
+ロンドンのブレントクロス (Brent Cross) については[イギリス2015年夏イベント Hello Kitty Kindness Garden](http://ameblo.jp/ohtaket/entry-12069148052.html) に記載済みだが、キティのぬいぐるみをキティに持ってもらった写真を載せていなかったので、ここで載せておく。
 
 [![5D3V1844](https://farm6.staticflickr.com/5727/20465408973_a1d5e2ea90.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/20465408973/in/album-72157655756847054/)

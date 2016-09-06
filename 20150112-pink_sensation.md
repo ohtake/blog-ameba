@@ -22,12 +22,16 @@
 
 ピューロビレッジで演奏をしたDJは以下の通り。
 
+<!-- markdownlint-disable MD029 -->
+
 1. 21:00-23:00 Yosa
 2. 23:00-23:15 DJ HELLO KITTY
 3. 23:15-24:15 DJ TOWA TEI
 4. 24:15-25:15 80KIDZ
 5. 25:15-27:00 SEKITOVA
 6. 27:00-28:30 DE DE MOUSE
+
+<!-- markdownlint-enable MD029 -->
 
 このうち DJ HELLO KITTY、DJ TOWA TEI における HELLO KITTY Birthday Celebration、DE DE MOUSE については別途記述する。
 
@@ -41,11 +45,15 @@
 
 フェアリーランドシアターで演奏をしたDJは以下の通り。
 
+<!-- markdownlint-disable MD029 -->
+
 1. 22:00-23:00 七尾旅人
 2. 23:05-23:45 TOKYO HEALTH CLUB
 3. 24:10-25:40 Kyoka
 4. 25:50-26:20 charisma.com
 5. 26:30-28:00 ALYN
+
+<!-- markdownlint-enable MD029 -->
 
 ### 大人のふわふわ
 

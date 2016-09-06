@@ -1,0 +1,19 @@
+{
+  "name": "blog-ameba",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "scripts/run-lint.js",
+  "devDependencies": {
+    "eslint": "3.4.0",
+    "eslint-plugin-import": "1.14.0",
+    "eslint-config-airbnb-base": "5.0.3",
+    "markdownlint": "0.2.0"
+  },
+  "scripts": {
+    "test": "node scripts/run-lint.js"
+  },
+  "author": "Ohtake Tomohiro",
+  "license": "UNLICENSED",
+  "homepage": "http://ameblo.jp/ohtaket/"
+}
