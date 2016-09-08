@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "lint-consistent"
+  ],
+  "plugins": {
+    "lint": {
+    }
+  }
+}
