@@ -166,7 +166,7 @@
 > 以下はご参考まで。
 >
 > つれてってシナモン&みるく to ベルギー  
-> <<http://ameblo.jp/ohtaket/entry-11465854369.html>>
+> &lt;<http://ameblo.jp/ohtaket/entry-11465854369.html>&gt;
 
 バレンタインデーにおけるこの企画への[応募作品の紹介](http://ameblo.jp/cinnamon-staff/entry-11470275555.html)には採用されなかったものの、別日の[おたより紹介](http://ameblo.jp/cinnamon-staff/entry-11479829690.html)で紹介されていました。ありがとうございます。
 
@@ -189,7 +189,7 @@
 > 以下はご参考まで。
 >
 > つれてってシナモン&みるく to ベルギー  
-> <<http://ameblo.jp/ohtaket/entry-11465854369.html>>
+> &lt;<http://ameblo.jp/ohtaket/entry-11465854369.html>&gt;
 
 3月3日では2月末締め切りの写真がなく3月10日には自分が投稿した写真が載っていたので、その間に切り替わった模様。スクリーンに映し出されたシナモンからのコメントは
 

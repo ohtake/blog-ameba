@@ -3,15 +3,22 @@
   "version": "1.0.0",
   "private": true,
   "description": "",
-  "main": "scripts/run-lint.js",
+  "main": "scripts/run-markdownlint.js",
   "devDependencies": {
+    "npm-run-all": "3.1.0",
     "eslint": "3.4.0",
     "eslint-plugin-import": "1.14.0",
     "eslint-config-airbnb-base": "5.0.3",
-    "markdownlint": "0.2.0"
+    "markdownlint": "0.2.0",
+    "remark-cli": "2.0.0",
+    "remark-lint": "5.0.1",
+    "remark-preset-lint-consistent": "1.0.0",
+    "remark-preset-lint-recommended": "1.0.0"
   },
   "scripts": {
-    "test": "node scripts/run-lint.js"
+    "test": "run-p -l lint:*",
+    "lint:markdownlint": "node scripts/run-markdownlint.js",
+    "lint:remark-lint": "remark . -q"
   },
   "author": "Ohtake Tomohiro",
   "license": "UNLICENSED",
