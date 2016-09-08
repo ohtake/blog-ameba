@@ -35,8 +35,7 @@
 
 他は [markdownlint](https://github.com/DavidAnson/markdownlint) に従う。設定は `.markdownlint.json` にあり [Visual Studio Code](https://code.visualstudio.com/) の [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) でも用いられる。[Code Climate Markdownlint](https://docs.codeclimate.com/docs/markdownlint)は設定を読んでくれないようだ。
 
-ついでに [remark-lint](https://github.com/wooorm/remark-lint) の [
-remark-preset-lint-consistent](https://github.com/wooorm/remark-lint/tree/master/packages/remark-preset-lint-consistent) にも従っておく。[remark-preset-lint-recommended](https://github.com/wooorm/remark-lint/tree/master/packages/remark-preset-lint-recommended) は markdownlint と相性が悪く、自分の好みにも合わないので放置。
+ついでに [remark-lint](https://github.com/wooorm/remark-lint) にも従っておく。ただし markdownlint と相性が悪いルールは変更。
 
 `npm test` により両方の lint を並行で実行する。
 

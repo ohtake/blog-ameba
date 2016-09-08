@@ -1,9 +1,11 @@
 {
   "presets": [
-    "lint-consistent"
+    "lint-consistent",
+    "lint-recommended"
   ],
   "plugins": {
     "lint": {
+      "list-item-indent": "space"
     }
   }
 }
