@@ -3,42 +3,46 @@
 [![Code Climate](https://codeclimate.com/github/ohtake/blog-ameba/badges/gpa.svg)](https://codeclimate.com/github/ohtake/blog-ameba)
 [![Dependency Status](https://www.versioneye.com/user/projects/57cebba39b4cc20044fffd40/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57cebba39b4cc20044fffd40)
 
-[http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場です。
+[http://ameblo.jp/ohtaket/](http://ameblo.jp/ohtaket/) の原稿置場。
 
 ## 更新手順
 
-1. 本文を Markdown およびその派生で書く。
-   * 画像がある場合には GitHub の絶対 URI になるようにする。心配ならば先に画像だけをコミットしてプッシュする。
-     * 昔は Markdown からの相対パスに対応していなかったからそのように決めたが、今は Flickr か Picasa から画像を読み込むことがほとんどなのでもう不要かも。
-1. 書いた Markdown を変換できるプログラムを使って変換する。
-   * table とか code とかの独自文法に注意。
-1. 変換された HTML で Ameblo に投稿する
-   * 画像は GitHub や Flickr や Picasa に上げられているのを使うので Ameblo に画像をアップロードしない。
-   * script タグなどはたいてい規制されているので使えない。YouTube などの埋め込み用スクリプトはホワイトリストに入っているっぽい。
+1. 本文をMarkdownおよびその派生で書く。
+   * 画像がある場合にはGitHubの絶対URIとなるようにする。心配ならば先に画像だけをコミットしてプッシュする。
+     * 昔はMarkdownからの相対パスに対応していなかったからそのように決めたが、今はFlickrかPicasaから画像を読み込むことがほとんどなのでもう不要。
+1. 書いたMarkdownを変換できるプログラムを使って変換する。
+   * tableやcodeなどの独自文法に注意。
+1. 変換されたHTMLでAmebloに投稿する。
+   * 画像はGitHub、Flickr、Picasaに上げられているものを使うのでAmebloに画像をアップロードしない。
+   * scriptタグなどはたいてい規制されているので使えない。YouTubeなどの埋め込み用スクリプトはホワイトリストに入っているようである。
 
-## 確定分の記法規約
+## 記法規約
 
 * UTF-8
-* 改行は LF
-* [オリジナルの Markdown](http://daringfireball.net/projects/markdown/) にあるが使わないもの
+* 改行はLF
+* [オリジナルのMarkdown](http://daringfireball.net/projects/markdown/)にあるが使わないもの
   * Inline HTML
-  * Emphasis: GFM で無効化されていたりするので使わない。変換プログラムによっては URL 中のアンダーバーを勝手にイタリックにしたりするので気を付けよう。
-  * Code blocks: 替わりに GFM の Fenced code blocks で。
+  * Emphasis
+    * GFMで無効化されていたりするので使わない。変換プログラムによってはURL中のアンダースコアを勝手にイタリックにしたりするので気を付けよう。
+  * Code blocks
+    * 替わりにGFMのFenced code blocksで。
   * Horizontal rules
-  * Automatic links: 絶対URIに対してリンクを張るときでも明示的にリンクの記法を使う。変換プログラムによっては明示的なリンクしかリンクにしてくれないため。
-* GFM にあるが使わないもの
-  * Newlines: 段落中に改行は入れない。変換プログラムによっては改行を改行として扱ってしまうため。改行を入れたければスペース2つで。
+  * Automatic links
+    * 絶対URIに対してリンクを張るときでも明示的にリンクの記法を使う。変換プログラムによっては明示的なリンクしかリンクにしてくれないため。
+* [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)にあるが使わないもの
+  * Newlines
+    * 段落中に改行は入れない。変換プログラムによっては改行を改行として扱ってしまうため。改行を入れたければスペース2つで
   * Task lists
   * Strikethrough
   * Emoji
   * References (SHA, issue, username, ...)
 
-他は [markdownlint](https://github.com/DavidAnson/markdownlint) に従う。設定は `.markdownlint.json` にあり [Visual Studio Code](https://code.visualstudio.com/) の [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) でも用いられる。[Code Climate Markdownlint](https://docs.codeclimate.com/docs/markdownlint)は設定を読んでくれないようだ。
+他は [markdownlint](https://github.com/DavidAnson/markdownlint) に従う。設定は `.markdownlint.json` にあり[Visual Studio Code](https://code.visualstudio.com/)の[markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)でも用いられる。[Code Climate Markdownlint](https://docs.codeclimate.com/docs/markdownlint)は設定を読んでくれないようだ。
 
-ついでに [remark-lint](https://github.com/wooorm/remark-lint) にも従っておく。ただし markdownlint と相性が悪いルールは変更。
+ついでで[remark-lint](https://github.com/wooorm/remark-lint)にも従っておく。ただしmarkdownlintと相性が悪いルールは変更。
 
-`npm test` により両方の lint を並行で実行する。
+`npm test` により両方のlintを並行で実行する。
 
 ## カスタマイズ
 
-custom ディレクトリを参照。
+`custom` ディレクトリを参照。

@@ -5,6 +5,8 @@
   "description": "",
   "main": "scripts/run-markdownlint.js",
   "devDependencies": {
+    "lodash": "4.15.0",
+    "cross-spawn" : "4.0.0",
     "npm-run-all": "3.1.0",
     "eslint": "3.4.0",
     "eslint-plugin-import": "1.14.0",
@@ -13,12 +15,18 @@
     "remark-cli": "2.0.0",
     "remark-lint": "5.0.1",
     "remark-preset-lint-consistent": "1.0.0",
-    "remark-preset-lint-recommended": "1.0.0"
+    "remark-preset-lint-recommended": "1.0.0",
+    "textlint": "7.1.0",
+    "textlint-rule-preset-japanese": "1.3.3",
+    "textlint-rule-preset-ja-spacing": "1.1.0",
+    "textlint-rule-preset-jtf-style": "2.2.3",
+    "textlint-rule-preset-ja-technical-writing": "0.1.2"
   },
   "scripts": {
     "test": "run-p -l lint:*",
     "lint:markdownlint": "node scripts/run-markdownlint.js",
-    "lint:remark-lint": "remark . -q"
+    "lint:remark-lint": "remark . -q",
+    "lint:textlint-latest": "node scripts/run-textlint-latest.js"
   },
   "author": "Ohtake Tomohiro",
   "license": "UNLICENSED",
