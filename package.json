@@ -23,10 +23,11 @@
     "textlint-rule-preset-ja-technical-writing": "0.1.2"
   },
   "scripts": {
-    "test": "run-p -l lint:*",
-    "lint:markdownlint": "node scripts/run-markdownlint.js",
-    "lint:remark-lint": "remark . -q",
-    "lint:textlint-latest": "node scripts/run-textlint-latest.js"
+    "lint": "eslint --color **/*.js",
+    "test": "run-p -l test:*",
+    "test:markdownlint": "node scripts/run-markdownlint.js",
+    "test:remark-lint": "remark . -q",
+    "test:textlint-latest": "node scripts/run-textlint-latest.js"
   },
   "author": "Ohtake Tomohiro",
   "license": "UNLICENSED",
