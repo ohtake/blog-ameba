@@ -6,3 +6,8 @@ import ディレクティブは禁止されているので直書きする。
 article p {
   margin: 0.8em 0;
 }
+
+article th, article td {
+  border: 1px solid #333;
+  padding: 0.1em;
+}
