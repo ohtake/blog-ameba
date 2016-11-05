@@ -255,7 +255,7 @@
 
 [![5D3S9860](https://farm8.staticflickr.com/7529/16028627509_e0105b64ec.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/16028627509)
 
-### グリーティング
+### グリーティング (USJ)
 
 [![5D3S9358](https://farm8.staticflickr.com/7540/15594912253_7b26bc7462.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/15594912253)
 
