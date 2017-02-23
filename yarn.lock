@@ -333,6 +333,10 @@ character-reference-invalid@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/character-reference-invalid/-/character-reference-invalid-1.1.0.tgz#dec9ad1dfb9f8d06b4fcdaa2adc3c4fd97af1e68"
 
+charenc@~0.0.1:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/charenc/-/charenc-0.0.2.tgz#c0a1d2f3a7092e03774bfa83f14c0fc5790a8667"
+
 chokidar@^1.5.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-1.6.1.tgz#2f4447ab5e96e50fb3d789fd90d4c72e0e4c70c2"
@@ -422,7 +426,14 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-cross-spawn@5.0.1:
+cross-spawn@^4.0.0:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-4.0.2.tgz#7b9247621c23adfdd3856004a823cbe397424d41"
+  dependencies:
+    lru-cache "^4.0.1"
+    which "^1.2.9"
+
+cross-spawn@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-5.0.1.tgz#a3bbb302db2297cbea3c04edf36941f4613aa399"
   dependencies:
@@ -430,12 +441,9 @@ cross-spawn@5.0.1:
     shebang-command "^1.2.0"
     which "^1.2.9"
 
-cross-spawn@^4.0.0:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-4.0.2.tgz#7b9247621c23adfdd3856004a823cbe397424d41"
-  dependencies:
-    lru-cache "^4.0.1"
-    which "^1.2.9"
+crypt@~0.0.1:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/crypt/-/crypt-0.0.2.tgz#88d7ff7ec0dfb86f713dc87bbb42d044d3e6c41b"
 
 cryptiles@2.x.x:
   version "2.0.5"
@@ -631,9 +639,9 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-airbnb-base@11.0.0:
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.0.0.tgz#a3eddc1e49fd6492509d582340fd6f58785623bd"
+eslint-config-airbnb-base@^11.0.0:
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.1.0.tgz#dc9b3ec70b8c74dcbe6d6257c9da3992c39ca2ca"
 
 eslint-import-resolver-node@^0.2.0:
   version "0.2.3"
@@ -650,7 +658,7 @@ eslint-module-utils@^2.0.0:
     debug "2.2.0"
     pkg-dir "^1.0.0"
 
-eslint-plugin-import@2.2.0:
+eslint-plugin-import@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.2.0.tgz#72ba306fad305d67c4816348a4699a4229ac8b4e"
   dependencies:
@@ -665,9 +673,9 @@ eslint-plugin-import@2.2.0:
     minimatch "^3.0.3"
     pkg-up "^1.0.0"
 
-eslint@3.12.2:
-  version "3.12.2"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-3.12.2.tgz#6be5a9aa29658252abd7f91e9132bab1f26f3c34"
+eslint@^3.12.2:
+  version "3.16.1"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-3.16.1.tgz#9bc31fc7341692cf772e80607508f67d711c5609"
   dependencies:
     babel-code-frame "^6.16.0"
     chalk "^1.1.3"
@@ -675,7 +683,7 @@ eslint@3.12.2:
     debug "^2.1.1"
     doctrine "^1.2.2"
     escope "^3.6.0"
-    espree "^3.3.1"
+    espree "^3.4.0"
     estraverse "^4.2.0"
     esutils "^2.0.2"
     file-entry-cache "^2.0.0"
@@ -699,12 +707,12 @@ eslint@3.12.2:
     require-uncached "^1.0.2"
     shelljs "^0.7.5"
     strip-bom "^3.0.0"
-    strip-json-comments "~1.0.1"
+    strip-json-comments "~2.0.1"
     table "^3.7.8"
     text-table "~0.2.0"
     user-home "^2.0.0"
 
-espree@^3.3.1:
+espree@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/espree/-/espree-3.4.0.tgz#41656fa5628e042878025ef467e78f125cb86e1d"
   dependencies:
@@ -733,12 +741,6 @@ estraverse@~4.1.0:
 esutils@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
-
-eval@^0.1.0:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/eval/-/eval-0.1.2.tgz#9f7103284c105a66df4030b2b3273165837013da"
-  dependencies:
-    require-like ">= 0.1.1"
 
 event-emitter@~0.3.4:
   version "0.3.4"
@@ -1125,7 +1127,7 @@ is-binary-path@^1.0.0:
   dependencies:
     binary-extensions "^1.0.0"
 
-is-buffer@^1.0.2, is-buffer@^1.1.4:
+is-buffer@^1.0.2, is-buffer@^1.1.4, is-buffer@~1.1.1:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-1.1.4.tgz#cfc86ccd5dc5a52fa80489111c6920c457e2d98b"
 
@@ -1300,7 +1302,7 @@ js-tokens@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.1.tgz#08e9f132484a2c45a30907e9dc4d5567b7f114d7"
 
-js-yaml@^3.2.4, js-yaml@^3.3.1, js-yaml@^3.5.1, js-yaml@^3.6.1:
+js-yaml@^3.2.4, js-yaml@^3.5.1, js-yaml@^3.6.1:
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.8.1.tgz#782ba50200be7b9e5a8537001b7804db3ad02628"
   dependencies:
@@ -1324,6 +1326,10 @@ json-stable-stringify@^1.0.0, json-stable-stringify@^1.0.1:
 json-stringify-safe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
+
+json5@^0.5.0:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-0.5.1.tgz#1eade7acc012034ad84e2396767ead9fa5495821"
 
 jsonify@~0.0.0:
   version "0.0.0"
@@ -1395,7 +1401,7 @@ lodash.cond@^4.3.0:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/lodash.cond/-/lodash.cond-4.5.2.tgz#f471a1da486be60f6ab955d17115523dd1d255d5"
 
-lodash@4.17.2, lodash@^4.0.0, lodash@^4.14.0, lodash@^4.3.0:
+lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.3.0:
   version "4.17.2"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.2.tgz#34a3055babe04ce42467b607d700072c7ff6bf42"
 
@@ -1463,7 +1469,7 @@ markdown-to-ast@^3.4.0:
     structured-source "^3.0.2"
     traverse "^0.6.6"
 
-markdownlint@0.3.1:
+markdownlint@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.3.1.tgz#8bc5ad5bad8a24b3fcfa5aa5cd1ceb8e063c49c6"
   dependencies:
@@ -1474,6 +1480,14 @@ match-index@^1.0.1:
   resolved "https://registry.yarnpkg.com/match-index/-/match-index-1.0.1.tgz#b4b673e99ab3ac5a6af303ccf4db709812bc3f58"
   dependencies:
     regexp.prototype.flags "^1.1.1"
+
+md5@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/md5/-/md5-2.2.1.tgz#53ab38d5fe3c8891ba465329ea23fac0540126f9"
+  dependencies:
+    charenc "~0.0.1"
+    crypt "~0.0.1"
+    is-buffer "~1.1.1"
 
 mdast-comment-marker@^1.0.0:
   version "1.0.1"
@@ -1617,7 +1631,7 @@ npm-prefix@^1.2.0:
     shellsubstitute "^1.1.0"
     untildify "^2.1.0"
 
-npm-run-all@3.1.2:
+npm-run-all@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-3.1.2.tgz#c7e3faf4aa0a59bf0dcfc12601166151692171cf"
   dependencies:
@@ -1657,7 +1671,7 @@ object-assign@^4.0.1, object-assign@^4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
 
-object-keys@^1.0.10, object-keys@^1.0.8:
+object-keys@^1.0.10, object-keys@^1.0.8, object-keys@^1.0.9:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.0.11.tgz#c54601778ad560f1142ce0e01bcca8b56d13426d"
 
@@ -1734,7 +1748,7 @@ parse-json@^2.2.0:
   dependencies:
     error-ex "^1.2.0"
 
-path-exists@^2.0.0:
+path-exists@^2.0.0, path-exists@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/path-exists/-/path-exists-2.1.0.tgz#0feb6c64f0fc518d9a754dd5efb62c7022761f4b"
   dependencies:
@@ -1850,14 +1864,17 @@ randomatic@^1.1.3:
     is-number "^2.0.2"
     kind-of "^3.0.2"
 
-rc-loader@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/rc-loader/-/rc-loader-1.0.0.tgz#966dd27f7f54b7693bea472415017d2afc642679"
+rc-config-loader@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/rc-config-loader/-/rc-config-loader-1.0.2.tgz#c5e903ab36c22204f3cca9d9ddfd7e68fe3758eb"
   dependencies:
-    eval "^0.1.0"
-    js-yaml "^3.3.1"
-    rc "^1.1.0"
-    strip-json-comments "^1.0.4"
+    debug "^2.2.0"
+    js-yaml "^3.6.1"
+    json5 "^0.5.0"
+    object-assign "^4.1.0"
+    object-keys "^1.0.9"
+    path-exists "^2.1.0"
+    require-uncached "^1.0.3"
 
 rc@^1.1.0, rc@~1.1.6:
   version "1.1.7"
@@ -1947,7 +1964,7 @@ regx@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/regx/-/regx-1.0.4.tgz#a0ee32c308910902019ca1117ed41b9ddd041b2f"
 
-remark-cli@2.1.0:
+remark-cli@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/remark-cli/-/remark-cli-2.1.0.tgz#d1fe363a4ebc02d7c2968135672df4ed185dc387"
   dependencies:
@@ -1955,7 +1972,7 @@ remark-cli@2.1.0:
     remark "^6.0.0"
     unified-args "^2.1.0"
 
-remark-lint@5.2.0, remark-lint@^5.0.0:
+remark-lint@^5.0.0, remark-lint@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/remark-lint/-/remark-lint-5.2.0.tgz#fde658817a49077efbe59acf16fd43826db52961"
   dependencies:
@@ -2016,13 +2033,13 @@ remark-parse@^2.2.0:
     vfile-location "^2.0.0"
     xtend "^4.0.1"
 
-remark-preset-lint-consistent@1.0.0:
+remark-preset-lint-consistent@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/remark-preset-lint-consistent/-/remark-preset-lint-consistent-1.0.0.tgz#4b539d05e1e68f5c2cecbba1b398e45c368c3148"
   dependencies:
     remark-lint "^5.0.0"
 
-remark-preset-lint-recommended@1.0.0:
+remark-preset-lint-recommended@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/remark-preset-lint-recommended/-/remark-preset-lint-recommended-1.0.0.tgz#9054280d8495a79f55850d17af940c8c47f72c12"
   dependencies:
@@ -2114,11 +2131,7 @@ request@^2.79.0:
     tunnel-agent "~0.4.1"
     uuid "^3.0.0"
 
-"require-like@>= 0.1.1":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/require-like/-/require-like-0.1.2.tgz#ad6f30c13becd797010c468afa775c0c0a6b47fa"
-
-require-uncached@^1.0.2:
+require-uncached@^1.0.2, require-uncached@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/require-uncached/-/require-uncached-1.0.3.tgz#4e0d56d6c9662fd31e43011c4b95aa49955421d3"
   dependencies:
@@ -2144,13 +2157,7 @@ restore-cursor@^1.0.1:
     exit-hook "^1.0.0"
     onetime "^1.0.0"
 
-rimraf@2, rimraf@^2.2.8:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.0.tgz#89b8a0fe432b9ff9ec9a925a00b6cdb3a91bbada"
-  dependencies:
-    glob "^7.0.5"
-
-rimraf@~2.5.1, rimraf@~2.5.4:
+rimraf@2, rimraf@^2.2.8, rimraf@~2.5.1, rimraf@~2.5.4:
   version "2.5.4"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.5.4.tgz#96800093cbf1a0c86bd95b4625467535c29dfa04"
   dependencies:
@@ -2374,10 +2381,6 @@ strip-bom@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/strip-bom/-/strip-bom-3.0.0.tgz#2334c18e9c759f7bdd56fdef7e9ae3d588e68ed3"
 
-strip-json-comments@^1.0.4, strip-json-comments@~1.0.1:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-1.0.4.tgz#1e15fbcac97d3ee99bf2d73b4c656b082bbafb91"
-
 strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
@@ -2475,9 +2478,9 @@ textlint-rule-helper@^2.0.0:
   dependencies:
     unist-util-visit "^1.1.0"
 
-textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana/-/textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana-1.0.2.tgz#c9352008dac4d59e9232c9d272ec52a90d33fa62"
+textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana/-/textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana-2.0.1.tgz#ea6f94cb9ced758fb2553dea2e9fe714f31f0aed"
   dependencies:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
@@ -2497,14 +2500,14 @@ textlint-rule-ja-no-mixed-period@^1.0.2:
     emoji-regex "^6.1.0"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-ja-no-space-around-parentheses@^2.0.0:
+textlint-rule-ja-no-space-around-parentheses@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-no-space-around-parentheses/-/textlint-rule-ja-no-space-around-parentheses-2.0.1.tgz#556a60e679da9b4c98244c67e7961ac2e540bec1"
   dependencies:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-ja-no-space-between-full-width@^2.0.0:
+textlint-rule-ja-no-space-between-full-width@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-no-space-between-full-width/-/textlint-rule-ja-no-space-between-full-width-2.0.1.tgz#921f78561564dd00c8733c230254acd8a55ded67"
   dependencies:
@@ -2525,28 +2528,28 @@ textlint-rule-ja-no-weak-phrase@^1.0.2:
     kuromojin "^1.3.1"
     morpheme-match "^1.0.1"
 
-textlint-rule-ja-space-after-exclamation@^2.0.0:
+textlint-rule-ja-space-after-exclamation@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-space-after-exclamation/-/textlint-rule-ja-space-after-exclamation-2.0.1.tgz#3bc5d48c13269bd9cb1b18eb82e3d4eae44dfba3"
   dependencies:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-ja-space-after-question@^2.0.0:
+textlint-rule-ja-space-after-question@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-space-after-question/-/textlint-rule-ja-space-after-question-2.0.1.tgz#122260cb97d203768820276b4d09bf5270b11dfa"
   dependencies:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-ja-space-around-code@^2.0.0:
+textlint-rule-ja-space-around-code@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-space-around-code/-/textlint-rule-ja-space-around-code-2.0.1.tgz#6b7011dab69488f1eddd445554e7cddeaf1a90d3"
   dependencies:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-ja-space-between-half-and-full-width@^2.0.0:
+textlint-rule-ja-space-between-half-and-full-width@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-ja-space-between-half-and-full-width/-/textlint-rule-ja-space-between-half-and-full-width-2.0.1.tgz#a527f83bd833149763e4043965f796c9ec2192ba"
   dependencies:
@@ -2567,7 +2570,7 @@ textlint-rule-max-kanji-continuous-len@^1.1.0:
     match-index "^1.0.1"
     textlint-rule-helper "^2.0.0"
 
-textlint-rule-max-ten@^2.0.0, textlint-rule-max-ten@^2.0.1:
+textlint-rule-max-ten@^2.0.1, textlint-rule-max-ten@^2.0.2:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/textlint-rule-max-ten/-/textlint-rule-max-ten-2.0.3.tgz#dccbc0d0157ee86a7572ca00a47ab1fa577f0645"
   dependencies:
@@ -2646,19 +2649,19 @@ textlint-rule-no-nfd@^1.0.1:
     textlint-rule-helper "^1.1.5"
     unorm "^1.4.1"
 
-textlint-rule-preset-ja-spacing@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/textlint-rule-preset-ja-spacing/-/textlint-rule-preset-ja-spacing-2.0.0.tgz#0e8c82bfceb9f4fdb8d311bae0aec2ef089be68d"
+textlint-rule-preset-ja-spacing@^2.0.0:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/textlint-rule-preset-ja-spacing/-/textlint-rule-preset-ja-spacing-2.0.1.tgz#4426e812b2fd525ed4c39d07ede2984ee9bf89d9"
   dependencies:
-    textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana "^1.0.2"
-    textlint-rule-ja-no-space-around-parentheses "^2.0.0"
-    textlint-rule-ja-no-space-between-full-width "^2.0.0"
-    textlint-rule-ja-space-after-exclamation "^2.0.0"
-    textlint-rule-ja-space-after-question "^2.0.0"
-    textlint-rule-ja-space-around-code "^2.0.0"
-    textlint-rule-ja-space-between-half-and-full-width "^2.0.0"
+    textlint-rule-ja-nakaguro-or-halfwidth-space-between-katakana "^2.0.1"
+    textlint-rule-ja-no-space-around-parentheses "^2.0.1"
+    textlint-rule-ja-no-space-between-full-width "^2.0.1"
+    textlint-rule-ja-space-after-exclamation "^2.0.1"
+    textlint-rule-ja-space-after-question "^2.0.1"
+    textlint-rule-ja-space-around-code "^2.0.1"
+    textlint-rule-ja-space-between-half-and-full-width "^2.0.1"
 
-textlint-rule-preset-ja-technical-writing@1.0.0:
+textlint-rule-preset-ja-technical-writing@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/textlint-rule-preset-ja-technical-writing/-/textlint-rule-preset-ja-technical-writing-1.0.0.tgz#aa762d3f31b805e7d48b70fa837d5fc46840e92d"
   dependencies:
@@ -2681,11 +2684,11 @@ textlint-rule-preset-ja-technical-writing@1.0.0:
     textlint-rule-preset-jtf-style "^2.2.1"
     textlint-rule-sentence-length "^1.0.7"
 
-textlint-rule-preset-japanese@1.3.3:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/textlint-rule-preset-japanese/-/textlint-rule-preset-japanese-1.3.3.tgz#49c41ffcca50fd33f99759cd27cbebff9d4d2763"
+textlint-rule-preset-japanese@^1.3.3:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/textlint-rule-preset-japanese/-/textlint-rule-preset-japanese-1.3.4.tgz#779b91c0236c1a183012b57b131eea937bebf8be"
   dependencies:
-    textlint-rule-max-ten "^2.0.0"
+    textlint-rule-max-ten "^2.0.2"
     textlint-rule-no-double-negative-ja "^1.0.3"
     textlint-rule-no-doubled-conjunction "^1.0.2"
     textlint-rule-no-doubled-conjunctive-particle-ga "^1.0.2"
@@ -2696,7 +2699,7 @@ textlint-rule-preset-japanese@1.3.3:
     textlint-rule-sentence-length "^1.0.4"
     textlint-rule-spellcheck-tech-word "^5.0.0"
 
-textlint-rule-preset-jtf-style@2.2.3, textlint-rule-preset-jtf-style@^2.2.1:
+textlint-rule-preset-jtf-style@^2.2.1, textlint-rule-preset-jtf-style@^2.2.3:
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/textlint-rule-preset-jtf-style/-/textlint-rule-preset-jtf-style-2.2.3.tgz#15d77e72a76ccdd020a180884b11d51cffa1d7aa"
   dependencies:
@@ -2739,9 +2742,9 @@ textlint-util-to-string@^1.1.0, textlint-util-to-string@^1.2.0:
     object-assign "^4.0.1"
     structured-source "^3.0.2"
 
-textlint@7.1.4:
-  version "7.1.4"
-  resolved "https://registry.yarnpkg.com/textlint/-/textlint-7.1.4.tgz#0ce1cd2cc8c061ced94e75265aba91db6279c40a"
+textlint@^7.1.4:
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/textlint/-/textlint-7.2.2.tgz#3e725f903e60c0beedb8085fef8d109316811f7a"
   dependencies:
     bluebird "^3.0.5"
     carrack "0.0.5"
@@ -2749,15 +2752,17 @@ textlint@7.1.4:
     debug "^2.1.0"
     deep-equal "^1.0.1"
     diff "^2.2.2"
+    file-entry-cache "^2.0.0"
     get-stdin "^5.0.1"
     interop-require "^1.0.0"
     is-file "^1.0.0"
     log-symbols "^1.0.2"
     map-like "^1.0.1"
+    md5 "^2.2.1"
     mkdirp "^0.5.0"
     object-assign "^4.0.1"
     optionator "^0.8.0"
-    rc-loader "^1.0.0"
+    rc-config-loader "^1.0.2"
     read-pkg "^1.1.0"
     string-width "^1.0.1"
     structured-source "^3.0.2"
