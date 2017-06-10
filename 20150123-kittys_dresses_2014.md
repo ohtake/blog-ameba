@@ -395,7 +395,9 @@ SHIBUYA 109 『DJ HELLO KITTY パフォーマンスイベント』の通常版DJ
 
 ### キャラクター大賞ラッピングバス
 
-1着目は旧形式の『ハローキティのハッピーキャラバン』で2着目は『ハローキティのスーパーアドベンチャー西遊記』。
+1着目は
+TODO チア
+で2着目は『ハローキティのスーパーアドベンチャー西遊記』。
 
 [![5D3N1851](https://farm3.staticflickr.com/2921/14206128675_a8bd791941.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/14206128675)
 
