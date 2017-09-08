@@ -4,6 +4,14 @@
 
 今までも次のお客さんが来ないためにキャラクターとデートのようになることはあったが、それは次の人が来ないまでの一時的なものであり、次の人が来たらすぐに後退できるようにするため常に周囲に注意を払っている必要があった。しかしこのデートプランでは、決して次の人が来ずに独占してキティと時を過ごせるため、没入感が段違いであった。
 
+## 更新履歴
+
+* 2017-09-03
+  * 初版
+* 2017-09-08
+  * Flickrへのリンク追加と最終版の画像への差し替え
+  * ほかのデート参加者のリンクを追加
+
 ## クラウドファンディングのリターン
 
 クラウドファンディングを利用した企画『[「夏祭り in サンリオピューロランド」をみんなと一緒につくりたい！](https://camp-fire.jp/backers/29320)』でのリターンを下表にまとめてみた。
@@ -106,7 +114,7 @@
 
 キャラクターと乗り物系アトラクションに乗るという企画はかつてもあった。2014年6月28日と29日にはマイメロードドライブにメロディ、クロミ、ピアノ、ウサミミ仮面の中から1キャラクターを選んで最大2名までで1台2500円であった。
 
-[![5D3O2750](https://farm4.staticflickr.com/3897/14363635259_0d6c149f8e.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/14363635259/in/photolist-nTgokM)
+[![5D3O2750](https://farm4.staticflickr.com/3897/14363635259_0d6c149f8e.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/14363635259/)
 
 それと比較すると、デートでのボートライドは割高である。まあご祝儀価格という考え方や、クラウドファンディングなので、支援のお返しとしてリターンが設定されているだけで、リターンの内容を直接購入しているわけではないと考えておこう。
 
@@ -114,7 +122,7 @@
 
 8月18日（金）に宅配便で案内が封筒に入れられてきて送られていた。写真の左から、チラシ、白い紙の送付物の案内、オレンジ色のご案内、クリアファイル、紙袋2枚、外側の封筒である。紙袋はクリアファイルが折れないようにするための補強材と思われる。
 
-[![53AH5593](https://farm5.staticflickr.com/4403/36896715495_1a9052f459.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36896715495/)
+[![53AH5593](https://farm5.staticflickr.com/4392/36263229884_1ef7d5e1a4.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36263229884/)
 
 8月27日の集合時間は8時30分であり、体験時間は9時から9時30分の30分となっている。体験内容はCAMPFIREに書かれていた通りレディキティハウスとボートライドであった。内容は同じであるが時間が20分から30分に伸びていた。その理由は後で判明する。
 
@@ -130,7 +138,7 @@
 
 エントランスショップ前のエスカレーターを降り、なぜか遠回りしてキキララショップの前を通ってレディキティハウスに移動した。9時ちょうどにデート開始となるので、それまではピアノラホールで待機となった。暇だから1枚だけ写真を撮っといた。
 
-[![53AH5598](https://farm5.staticflickr.com/4373/36896714035_d18cb95897.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36896714035/)
+[![53AH5598](https://farm5.staticflickr.com/4357/36263229524_d79b8c9ba4.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36263229524/)
 
 前回レディキティハウスに行ったのが、2016年から2017年の年末年始にかけてキティが何種類か（5種類？）の和服を着てくるときであった。そのため、かれこれ8カ月ぶり。
 
@@ -184,7 +192,7 @@
 
 ちなみにこの通算20分間のデートの中で自分が写真を撮ったのはこのお別れの時の1枚のみ。
 
-[![53AH5601](https://farm5.staticflickr.com/4411/36896712415_868e791be2.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36896712415/)
+[![53AH5601](https://farm5.staticflickr.com/4403/36701937390_d3b217d137.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36701937390/)
 
 かつてガラゲーの時代にサンリオピューロクラブというオンラインコンテンツサービスがあり、キティとダニエルがハーモニーランドのアトラクションに乗りながらデートをしているという内容の動画があった。その動画ではダニエルが常にキティに対してビデオ撮影をしていて、大変起用であった。自分はそこまで器用ではないので動画撮影を同伴者にお願いして、自分はデートに集中させてもらった。
 
@@ -196,9 +204,9 @@
 
 またこの日の夜にレディキティハウスに行き、デートのお礼をしてきた。そして受け取った写真を持ってもらって写真を撮らせてもらった。ボートで最後列にいたキティの付き添いの人は写真撮影時には座席の下に隠れていたらしく、その位置にはガーネットが合成されている。
 
-[![53AH7529](https://farm5.staticflickr.com/4332/36062511994_553119da8b.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36062511994/)
+[![53AH7529](https://farm5.staticflickr.com/4422/36263125944_a4b8c8dd85.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36263125944/)
 
-[![53AH7540](https://farm5.staticflickr.com/4395/36062514784_0002161f0f.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/36062514784/)
+[![53AH7540](https://farm5.staticflickr.com/4427/37098283175_8591853227.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/37098283175/)
 
 ## クラウドファンディングで他にやってほしいこと
 
@@ -269,7 +277,9 @@ Miracle Gift Paradeではキティとダニエル以外にもセリフが付く�
   * <https://twitter.com/kittychanfan/status/901463000422293504>
   * <https://twitter.com/kittychanfan/status/901476950660665345>
   * <https://twitter.com/kittychanfan/status/901801990631571456>
+  * <https://twitter.com/kittychanfan/status/904169649952063488>
+    * <http://www.kittychan.info/diary.html#170826>
 
 自分のデートの日の写真は以下にある。といってもデート中の写真は1枚しかない。動画は私のスマートフォン内に保存してあるので、見たい人は声をかけてください。
 
-* 後日Flickrのアルバムを追加予定
+* [20170827-Puroland](https://www.flickr.com/photos/ohtake_tomohiro/sets/72157688745137175)
