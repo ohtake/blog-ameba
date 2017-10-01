@@ -251,7 +251,7 @@
   * [ピューロ～アフィリエイトプログラム説明会～(*．ー．*)｜りさめろちゃんねる(♡・◇・♡)](http://ameblo.jp/jelly-pole/entry-11599533218.html)
     * 長いインパ日記の後にアフィリエイトプログラム説明会について書かれている。
     * 音が出るので注意。しかも止め方が分からない。
-  * [サンリオピューロランド アフィリエイトプログラム説明会 - monochrome effect](http://me.monoweb.info/blog/2013/08/25/puroland-affiliate/)
+  * [サンリオピューロランド アフィリエイトプログラム説明会 - monochrome effect](http://me.mono0x.net/blog/2013/08/25/puroland-affiliate/)
     * 説明会には参加されなかったが、動画配信を見ての感想を書かれている。
 * 参加する前のブログ
   * [サンリオピューロランド「アフィリエイトプログラム」説明会の募集中です。](http://blog.goo.ne.jp/fuekitty/e/06718e2581ca8d7c905043ee3beaf81a/)
