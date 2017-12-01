@@ -30,6 +30,6 @@
     "test:textlint-latest": "node scripts/run-textlint-latest.js"
   },
   "author": "Ohtake Tomohiro",
-  "license": "UNLICENSED",
+  "license": "CC-BY-4.0",
   "homepage": "http://ameblo.jp/ohtaket/"
 }
