@@ -32,11 +32,11 @@
 
 その前の2011年9月10日にもピューロランドでキャラクター大賞の発表があったが、2012年で聞いたものよりは小規模なものであった。知恵の木で上位10キャラクターが登場して順位を発表した時の様子。
 
-[![](https://lh6.googleusercontent.com/-VKqflJwoQ60/UWbBB3FMZOI/AAAAAAAAPVA/R8zem1NbUSc/s456/DSC02739%2520%25281824x1368%2529.jpg)](https://picasaweb.google.com/lh/photo/l2PdaXVyB2ZATWVeOkMnF9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![DSC02739](https://lh6.googleusercontent.com/-VKqflJwoQ60/UWbBB3FMZOI/AAAAAAAAPVA/R8zem1NbUSc/s456/DSC02739%2520%25281824x1368%2529.jpg)](https://picasaweb.google.com/lh/photo/l2PdaXVyB2ZATWVeOkMnF9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 だいぶこじんまりとしたもので、キャラクター大賞よりもメルがピューロランドに初登場ということのほうがインパクトがあったくらいだ。イベント会場だったプリモガーデンの混雑具合もこの程度。手前のサイン机に座っているのはバーコード人間の編集長。
 
-[![](https://lh4.googleusercontent.com/--gKCKAYn-sI/UWbBLtfPggI/AAAAAAAAPXA/l8pVn-LioMY/s456/DSC02771%2520%25281824x1368%2529.jpg)](https://picasaweb.google.com/lh/photo/7mHMHQfcRi3zc0vBKDXfA9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![DSC02771](https://lh4.googleusercontent.com/--gKCKAYn-sI/UWbBLtfPggI/AAAAAAAAPXA/l8pVn-LioMY/s456/DSC02771%2520%25281824x1368%2529.jpg)](https://picasaweb.google.com/lh/photo/7mHMHQfcRi3zc0vBKDXfA9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 2011年から2012年で大規模化したこともあり今年2013年はもっと大規模化すると勝手に想像している。5月には[ラッピングバス](http://www.sanrio.co.jp/corporate/release/detail/453)が都内を走ったし、大賞発表となる7月20日はピューロランドの「夢のタイムマシン」の一帯をリニューアルした「サンリオタウン」がオープンされる日でもある。
 

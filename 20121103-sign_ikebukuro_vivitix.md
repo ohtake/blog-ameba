@@ -39,17 +39,17 @@
 
 幸い11月にもなり気温が下がってきたので、きぐるみルームウェアの上にロングコートを着ればある程度は隠せる。しかしきぐるみルームウェアには取り外し不可能なフードがついており、特に耳の部分が分厚いためコートの中にしまうこともできない。
 
-[![](https://lh4.googleusercontent.com/-BTKtFBcbDTk/UJTY0pTV9oI/AAAAAAAAED0/Hj7_xyEs_g8/s480/5D3B3004%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/KveAQZ-1y1Omm8d69YWMYtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B3004](https://lh4.googleusercontent.com/-BTKtFBcbDTk/UJTY0pTV9oI/AAAAAAAAED0/Hj7_xyEs_g8/s480/5D3B3004%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/KveAQZ-1y1Omm8d69YWMYtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 前から見ると特に問題はないのだけれども、後ろから見たら何事かと思われてしまうことだろう。背中に「馬鹿」と書かれた張り紙が貼られていても本人には分からないと信じ込むことでこれで我慢する。せっかくなのでポイントカード景品のシュシュを右耳に付けておいた。どうでもいいけど、マニュアルフォーカスで置きピンして自分撮りってかなり難しいのね。
 
 尻尾は取り外し可能なので、移動時は外しておいてイベント中のみ付けておくようにした。ロングコートの後ろ側の切れ込みから尻尾を出すことで、服を着たピューロランドのシナモンみたいになったかも。
 
-[![](https://lh3.googleusercontent.com/-omv5vByfynQ/UJTY1RqlG6I/AAAAAAAAEEI/8i9lbdENX8s/s480/5D3B3026%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/5dx3tM3hVsTQhYWDtGoTEtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B3026](https://lh3.googleusercontent.com/-omv5vByfynQ/UJTY1RqlG6I/AAAAAAAAEEI/8i9lbdENX8s/s480/5D3B3026%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/5dx3tM3hVsTQhYWDtGoTEtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 きぐるみルームウェアは顔と手と足が出るようになっているため、外であれば通常は靴を履くかと思われる。でもそれでは物足りないよねということで、ピューロランドのシナモンの足っぽい履物を作ってみた。池袋から帰ってきてから撮った写真なので、結構汚れているのは堪忍な。
 
-[![](https://lh6.googleusercontent.com/-gQOPqse-BUk/UJTY0gdfDwI/AAAAAAAAED4/6e5w5SEybUU/s480/5D3B2994%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/bDZRDEZrVdH5vXWcwGzSMNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B2994](https://lh6.googleusercontent.com/-gQOPqse-BUk/UJTY0gdfDwI/AAAAAAAAED4/6e5w5SEybUU/s480/5D3B2994%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/bDZRDEZrVdH5vXWcwGzSMNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 この履物は歩くのには向かないので、現地までは普通の靴で行き、現地で履き替えることにした。
 
@@ -67,7 +67,7 @@
 
 せっかく店舗で10周年スペシャルぬいぐるみを受け取ったので「つれてってシナモン([2003](http://www.sanrio.co.jp/corporate/release/detail/270), [2012](http://www.sanrio.co.jp/corporate/release/detail/413))」ならぬ「持ち帰ってシナモン」を実施してみました。
 
-[![](https://lh4.googleusercontent.com/-XB3rFxs0dRQ/UJTYxx6I4vI/AAAAAAAAEEg/9U4Bkzl_slw/s480/5D3B2969%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/sykro-l86NqCTz0v_KwM_NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B2969](https://lh4.googleusercontent.com/-XB3rFxs0dRQ/UJTYxx6I4vI/AAAAAAAAEEg/9U4Bkzl_slw/s480/5D3B2969%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/sykro-l86NqCTz0v_KwM_NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 怪しげな格好で怪しげなことをするのはよくないかなということで、結局上記1枚のサンシャイン60しか撮影してません。こういう写真撮るときには今回の機材では合わないってこともあるし。
 
@@ -81,15 +81,15 @@
 
 この人、耳を自作してるわ。偉いわー。
 
-[![](https://lh5.googleusercontent.com/-CEOyLt4gNUo/UJTYx8xx3OI/AAAAAAAAEEg/ugGC9UHgSC0/s480/5D3B2970%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/aPLkO-t6ubSs__3Xa4bSatMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B2970](https://lh5.googleusercontent.com/-CEOyLt4gNUo/UJTYx8xx3OI/AAAAAAAAEEg/ugGC9UHgSC0/s480/5D3B2970%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/aPLkO-t6ubSs__3Xa4bSatMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 手前にいる子供の陰になってしまっているけど、この人はコートで隠したりせずにきぐるみルームウェアをガチで着てる。勇者だわー。
 
-[![](https://lh3.googleusercontent.com/-nY6l0wnODNk/UJTYyj3UMQI/AAAAAAAAEEg/yyEj_ceYM1Y/s480/5D3B2978%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/nS_Wva1s5GG5x4YNu-4ydtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B2978](https://lh3.googleusercontent.com/-nY6l0wnODNk/UJTYyj3UMQI/AAAAAAAAEEg/yyEj_ceYM1Y/s480/5D3B2978%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/nS_Wva1s5GG5x4YNu-4ydtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 自分の番になったのでサインを頂きました。今回はローマ字の ohtake でいただきました。いつもありがとうございます。
 
-[![](https://lh4.googleusercontent.com/-5KoK0DFtAfM/UJTYz51A7gI/AAAAAAAAEEg/NeQVOh-0h-s/s480/5D3B2987%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/TpbW3Twgt4Nemwd8tOxrn9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B2987](https://lh4.googleusercontent.com/-5KoK0DFtAfM/UJTYz51A7gI/AAAAAAAAEEg/NeQVOh-0h-s/s480/5D3B2987%2520%2528960x1440%2529.jpg)](https://picasaweb.google.com/lh/photo/TpbW3Twgt4Nemwd8tOxrn9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 サインを頂いた後にスタッフの人に声をかけられて、足の写真を撮られました。さて、どうなることやら。
 

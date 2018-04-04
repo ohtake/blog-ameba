@@ -46,7 +46,7 @@ Count Name
 
 やはりモカとサフィーの組み合わせは珍しいようだ。サフィーはジュエルペット以外だともんきちと仲が良いようで、その組み合わせは[2012年9月16日](https://picasaweb.google.com/103687453618299008868/20120916SPL?authuser=0&noredirect=1)に目撃もしてあった。もんきち、楽しそうにしてるなあ。
 
-[![](https://lh5.googleusercontent.com/-Q7o-q_zGmOc/UFYZL2p3esI/AAAAAAAACn4/x7pvWXMtNMU/s480/5D3A8876%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/ELdVK-buu7acrxkc0p7cHtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3A8876](https://lh5.googleusercontent.com/-Q7o-q_zGmOc/UFYZL2p3esI/AAAAAAAACn4/x7pvWXMtNMU/s480/5D3A8876%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/ELdVK-buu7acrxkc0p7cHtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 一方でモカ起点だと以下のようになり、モカ自体がグリーティングにあまり出てこないこともあり珍しさが表出してこない。
 
@@ -133,19 +133,19 @@ Count Name
 
 [2012年9月10日](https://picasaweb.google.com/103687453618299008868/20120910SPL?authuser=0&noredirect=1)のけろっぴ
 
-[![](https://lh3.googleusercontent.com/-lLdThdCBe4o/UE5pqofS-cI/AAAAAAAACdw/qUk78IEtaC8/s480/5D3A8673%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/8-0bgv25E1BG4JfaMkvee9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3A8673](https://lh3.googleusercontent.com/-lLdThdCBe4o/UE5pqofS-cI/AAAAAAAACdw/qUk78IEtaC8/s480/5D3A8673%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/8-0bgv25E1BG4JfaMkvee9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 [2012年9月16日](https://picasaweb.google.com/103687453618299008868/20120916SPL?authuser=0&noredirect=1)のプリン
 
-[![](https://lh3.googleusercontent.com/-HOwx5heVD4Q/UFYZJrHK_KI/AAAAAAAACn4/k2gvMK6Yhcw/s480/5D3A8826%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/6xohVZAVW0WO2SspFDJJ0NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3A8826](https://lh3.googleusercontent.com/-HOwx5heVD4Q/UFYZJrHK_KI/AAAAAAAACn4/k2gvMK6Yhcw/s480/5D3A8826%2520%25281280x853%2529.jpg)](https://picasaweb.google.com/lh/photo/6xohVZAVW0WO2SspFDJJ0NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 [2012年10月2日](https://picasaweb.google.com/103687453618299008868/20121002SPL?authuser=0&noredirect=1)のミミィ
 
-[![](https://lh5.googleusercontent.com/-MIeNSnQBmdM/UGw_aRNzs9I/AAAAAAAADVU/R1pIALlkJ8Q/s480/5D3B1010%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/wQh0Q8r8y0GXqj68bhmBBdMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B1010](https://lh5.googleusercontent.com/-MIeNSnQBmdM/UGw_aRNzs9I/AAAAAAAADVU/R1pIALlkJ8Q/s480/5D3B1010%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/wQh0Q8r8y0GXqj68bhmBBdMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 [2012年10月13日](https://picasaweb.google.com/103687453618299008868/20121013SPL?authuser=0&noredirect=1)のダニエル
 
-[![](https://lh3.googleusercontent.com/-49w1MXuQgXI/UHoHwTJTy_I/AAAAAAAAD0U/Bp_0AYt9OXM/s480/5D3B1824%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/ySsqlYV0eSjExLXrl-lL2dMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+[![5D3B1824](https://lh3.googleusercontent.com/-49w1MXuQgXI/UHoHwTJTy_I/AAAAAAAAD0U/Bp_0AYt9OXM/s480/5D3B1824%2520%25281440x960%2529.jpg)](https://picasaweb.google.com/lh/photo/ySsqlYV0eSjExLXrl-lL2dMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 さて集計はどうなるかというと以下のようになった。
 
