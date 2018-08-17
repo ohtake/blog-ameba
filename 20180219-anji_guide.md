@@ -21,7 +21,7 @@
 
 旅行は旅程通りにはいかないことも当然あり、途中で旅程を変えなければならないこともある。そのため、途中で別の案に移行できる上海案でまずは進めていき、それが遂行できなさそうになったら上海・杭州案に移行する方法もある。自分が行った時には、上海案で飛行機とバスを予約していたが、飛行機の遅延などにより上海・杭州案に切り替えることになった。具体的な時間や便での説明は第4編の[実録編](https://ameblo.jp/ohtaket/entry-12354440166.html)に記す。
 
-[![3つの経路案](https://scontent-nrt1-1.cdninstagram.com/vp/c572e3678e1624c6a32fe3ac3c5a6f66/5B209118/t51.2885-15/e35/27576895_176765716385722_6419364171934072832_n.jpg)](https://www.instagram.com/p/BfEELD5hbdJ/)
+[![3つの経路案](https://www.instagram.com/p/BfEELD5hbdJ/media/?size=m)](https://www.instagram.com/p/BfEELD5hbdJ/)
 
 ### 杭州案
 

@@ -194,9 +194,9 @@ SPECIALE de 'HELLO KITTY'
 
 Casa Cucinaの座席のレイアウトは特殊で、カウンター席がコの字型になっている。写真を撮り忘れたのでInstagramの[anteprima_casacucina](https://www.instagram.com/anteprima_casacucina/)から写真を引用。
 
-> [![BIRfuvKAZRL](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13743561_1772223066323843_280446571_n.jpg)](https://www.instagram.com/p/BIRfuvKAZRL/)
+> [![BIRfuvKAZRL](https://www.instagram.com/p/BIRfuvKAZRL/media/?size=m)](https://www.instagram.com/p/BIRfuvKAZRL/)
 >
-> [![BIRffTTALwc](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13767431_1727266737527683_876017246_n.jpg)](https://www.instagram.com/p/BIRffTTALwc/)
+> [![BIRffTTALwc](https://www.instagram.com/p/BIRffTTALwc/media/?size=m)](https://www.instagram.com/p/BIRffTTALwc/)
 
 カウンター席が11席で、テーブル席が8席の合計19席だけととても小さい。店名のCasa Cucinaを日本語訳すると「お家のキッチン」とのことである。例えるなら、ダイニングに座っている招待客とキッチンにいる招待者がお互いに見ることができるのと同じ感覚だろう。
 
@@ -226,9 +226,9 @@ Casa Cucinaの座席のレイアウトは特殊で、カウンター席がコの
 
 参考に公式Instagramから通常時の店外装飾を比較用に。普段のトイレの様子は公式Instagramから見つけられなかった。
 
-> [![BIGj1a2gjks](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13649235_219454221787290_2011680819_n.jpg)](https://www.instagram.com/p/BIGj1a2gjks/)
+> [![BIGj1a2gjks](https://www.instagram.com/p/BIGj1a2gjks/media/?size=m)](https://www.instagram.com/p/BIGj1a2gjks/)
 >
-> [![BIGkYswg2xs](https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13744243_652597961560001_1043791654_n.jpg)](https://www.instagram.com/p/BIGkYswg2xs/)
+> [![BIGkYswg2xs](https://www.instagram.com/p/BIGkYswg2xs/media/?size=m)](https://www.instagram.com/p/BIGkYswg2xs/)
 
 これら以外にもそこらじゅうにリボンが貼られていたりして、たった一日だけのイベントなのにとても手が込んでいた。
 
