@@ -172,7 +172,9 @@ SとMとLがあれば、XXLもあってもいいだろうということで、XX
 
 [![5D3K1803](https://farm6.staticflickr.com/5500/11353879876_1f1f55e2a1.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/11353879876/)
 
+<!-- markdownlint-disable no-trailing-punctuation -->
 ### MA マロン？
+<!-- markdownlint-enable no-trailing-punctuation -->
 
 マロンかと思ったが、そもそも会社が違っていた。
 
