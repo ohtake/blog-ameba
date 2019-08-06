@@ -16,7 +16,7 @@
 
 ### ARIGATO EVERYONE!
 
-<!-- markdownlint-enable MD026 -->
+<!-- markdownlint-restore -->
 
 40th のは 40th オープニングセレモニー、1000人ハグの先着100人、晩餐会でも使用。
 

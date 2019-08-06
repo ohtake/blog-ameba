@@ -31,7 +31,7 @@
 5. 25:15-27:00 SEKITOVA
 6. 27:00-28:30 DE DE MOUSE
 
-<!-- markdownlint-enable MD029 -->
+<!-- markdownlint-restore -->
 
 このうち DJ HELLO KITTY、DJ TOWA TEI における HELLO KITTY Birthday Celebration、DE DE MOUSE については別途記述する。
 
@@ -53,7 +53,7 @@
 4. 25:50-26:20 charisma.com
 5. 26:30-28:00 ALYN
 
-<!-- markdownlint-enable MD029 -->
+<!-- markdownlint-restore -->
 
 ### 大人のふわふわ
 

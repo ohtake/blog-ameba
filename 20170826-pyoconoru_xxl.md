@@ -174,7 +174,7 @@ SとMとLがあれば、XXLもあってもいいだろうということで、XX
 
 <!-- markdownlint-disable no-trailing-punctuation -->
 ### MA マロン？
-<!-- markdownlint-enable no-trailing-punctuation -->
+<!-- markdownlint-restore -->
 
 マロンかと思ったが、そもそも会社が違っていた。
 

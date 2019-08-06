@@ -19,7 +19,7 @@
 
 ### ARIGATO EVERYONE!
 
-<!-- markdownlint-enable MD029 -->
+<!-- markdownlint-restore -->
 
 通常版衣装は40周年を記念した各種の外部イベントでも使用。11月『ハローキティのバースデーパーティ』、ハーモニーランド11月のキティキャッスル、12月31日『開運☆年末コンサート』でも使用。
 
@@ -321,7 +321,9 @@
 
 [![5D3Q3974](https://farm4.staticflickr.com/3929/15553714641_5bdcc5b4b4.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/15553714641)
 
+<!-- markdownlint-disable no-trailing-punctuation -->
 ### 11月: キティ&ミミィのみんな nakayoku!
+<!-- markdownlint-restore -->
 
 西武園ゆうえんち同月の『キティ&ミミィのダンスセレブレーション』やピューロランドのふわふわランドでも使用。
 

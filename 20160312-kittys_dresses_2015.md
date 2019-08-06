@@ -19,7 +19,7 @@
 
 ### ARIGATO EVERYONE!
 
-<!-- markdownlint-enable MD026 -->
+<!-- markdownlint-restore -->
 
 [![5D3T3880](https://farm9.staticflickr.com/8598/16298499025_370102f629.jpg)](https://www.flickr.com/photos/ohtake_tomohiro/16298499025/in/album-72157648009620283/)
 
