@@ -6,8 +6,8 @@
   "main": "scripts/run-markdownlint.js",
   "devDependencies": {
     "cross-spawn": "^6.0.5",
-    "eslint": "^6.1.0",
-    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "lodash": "^4.17.15",
     "markdownlint": "^0.16.0",
